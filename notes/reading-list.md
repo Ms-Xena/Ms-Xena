@@ -5,3 +5,4 @@
 - 2025-06-20: reorganize
 - 2025-06-21: update log
 - 2025-06-24: reorganize
+- 2025-06-24: edit content
