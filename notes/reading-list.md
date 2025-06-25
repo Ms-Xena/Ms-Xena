@@ -6,3 +6,4 @@
 - 2025-06-21: update log
 - 2025-06-24: reorganize
 - 2025-06-24: edit content
+- 2025-06-25: revise notes
