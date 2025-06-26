@@ -7,3 +7,4 @@
 - 2025-06-24: small improvement
 - 2025-06-25: quick fix
 - 2025-06-26: clean up
+- 2025-06-26: revise section
