@@ -9,3 +9,4 @@
 - 2025-06-26: clean up
 - 2025-06-26: revise section
 - 2025-06-27: update list
+- 2025-06-28: minor update
