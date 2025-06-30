@@ -7,3 +7,4 @@
 - 2025-06-24: update list
 - 2025-06-25: fix spacing
 - 2025-06-26: update docs
+- 2025-06-30: update config
