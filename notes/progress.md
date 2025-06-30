@@ -10,3 +10,4 @@
 - 2025-06-26: revise section
 - 2025-06-27: update list
 - 2025-06-28: minor update
+- 2025-06-30: update notes
