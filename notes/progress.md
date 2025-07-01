@@ -11,3 +11,4 @@
 - 2025-06-27: update list
 - 2025-06-28: minor update
 - 2025-06-30: update notes
+- 2025-07-01: add notes
