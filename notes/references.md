@@ -8,3 +8,4 @@
 - 2025-06-25: fix spacing
 - 2025-06-26: update docs
 - 2025-06-30: update config
+- 2025-07-02: code cleanup
