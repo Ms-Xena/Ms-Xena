@@ -14,3 +14,4 @@
 - 2025-06-30: update docs
 - 2025-07-01: fix formatting
 - 2025-07-02: revise section
+- 2025-07-03: improve structure
