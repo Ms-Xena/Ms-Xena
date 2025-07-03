@@ -8,3 +8,4 @@
 - 2025-06-26: update config
 - 2025-06-30: minor fix
 - 2025-07-02: update docs
+- 2025-07-03: refactor logic
