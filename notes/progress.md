@@ -13,3 +13,4 @@
 - 2025-06-30: update notes
 - 2025-07-01: add notes
 - 2025-07-03: minor edit
+- 2025-07-03: fix formatting
