@@ -8,3 +8,4 @@
 - 2025-06-26: minor fix
 - 2025-06-28: update list
 - 2025-06-30: clean up
+- 2025-07-03: revise draft
