@@ -14,3 +14,4 @@
 - 2025-07-01: add notes
 - 2025-07-03: minor edit
 - 2025-07-03: fix formatting
+- 2025-07-04: fix typo
