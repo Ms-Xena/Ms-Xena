@@ -10,3 +10,4 @@
 - 2025-06-30: clean up
 - 2025-07-03: revise draft
 - 2025-07-04: update readme
+- 2025-07-06: revise section
