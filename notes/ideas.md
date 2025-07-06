@@ -10,3 +10,4 @@
 - 2025-07-02: update docs
 - 2025-07-03: refactor logic
 - 2025-07-04: add reference
+- 2025-07-06: polish content
