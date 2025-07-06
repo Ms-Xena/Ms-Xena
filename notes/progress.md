@@ -15,3 +15,4 @@
 - 2025-07-03: minor edit
 - 2025-07-03: fix formatting
 - 2025-07-04: fix typo
+- 2025-07-06: code cleanup
