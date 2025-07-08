@@ -11,3 +11,4 @@
 - 2025-07-03: revise draft
 - 2025-07-04: update readme
 - 2025-07-06: revise section
+- 2025-07-08: revise notes
