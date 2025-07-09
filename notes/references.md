@@ -13,3 +13,4 @@
 - 2025-07-04: restructure
 - 2025-07-07: edit content
 - 2025-07-08: fix indent
+- 2025-07-09: adjust layout
