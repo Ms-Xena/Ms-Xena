@@ -13,3 +13,4 @@
 - 2025-07-06: revise section
 - 2025-07-08: revise notes
 - 2025-07-09: add notes
+- 2025-07-10: clean up
