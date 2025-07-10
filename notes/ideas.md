@@ -14,3 +14,4 @@
 - 2025-07-07: update list
 - 2025-07-08: quick fix
 - 2025-07-09: fix indent
+- 2025-07-10: tweak layout
