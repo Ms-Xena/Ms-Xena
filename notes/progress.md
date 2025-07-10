@@ -18,3 +18,4 @@
 - 2025-07-06: code cleanup
 - 2025-07-08: fix spacing
 - 2025-07-09: fix formatting
+- 2025-07-10: update notes
