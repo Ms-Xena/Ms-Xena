@@ -20,3 +20,4 @@
 - 2025-07-09: fix formatting
 - 2025-07-10: update notes
 - 2025-07-11: tweak layout
+- 2025-07-11: minor fix
