@@ -16,3 +16,4 @@
 - 2025-07-09: fix indent
 - 2025-07-10: tweak layout
 - 2025-07-11: improve flow
+- 2025-07-14: revise section
