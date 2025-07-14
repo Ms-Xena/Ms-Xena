@@ -16,3 +16,4 @@
 - 2025-07-09: adjust layout
 - 2025-07-10: update reference
 - 2025-07-11: update notes
+- 2025-07-14: polish content
