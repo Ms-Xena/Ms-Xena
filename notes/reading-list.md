@@ -19,3 +19,4 @@
 - 2025-07-08: adjust layout
 - 2025-07-10: improve flow
 - 2025-07-11: clean up
+- 2025-07-15: update docs
