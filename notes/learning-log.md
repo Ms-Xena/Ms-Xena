@@ -16,3 +16,4 @@
 - 2025-07-10: clean up
 - 2025-07-11: update reference
 - 2025-07-14: code cleanup
+- 2025-07-15: revise section
