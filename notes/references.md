@@ -18,3 +18,4 @@
 - 2025-07-11: update notes
 - 2025-07-14: polish content
 - 2025-07-15: update config
+- 2025-07-16: improve flow
