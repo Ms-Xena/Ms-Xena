@@ -19,3 +19,4 @@
 - 2025-07-14: revise section
 - 2025-07-15: minor fix
 - 2025-07-16: update config
+- 2025-07-17: tweak layout
