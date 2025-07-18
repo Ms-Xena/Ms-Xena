@@ -18,3 +18,4 @@
 - 2025-07-14: code cleanup
 - 2025-07-15: revise section
 - 2025-07-16: minor fix
+- 2025-07-18: update notes
