@@ -22,3 +22,4 @@
 - 2025-07-17: update reference
 - 2025-07-18: minor fix
 - 2025-07-19: restructure
+- 2025-07-20: fix typo
