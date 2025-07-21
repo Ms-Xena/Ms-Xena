@@ -21,3 +21,4 @@
 - 2025-07-16: update config
 - 2025-07-17: tweak layout
 - 2025-07-18: clean up
+- 2025-07-21: add detail
