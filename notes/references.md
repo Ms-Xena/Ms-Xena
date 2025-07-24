@@ -25,3 +25,4 @@
 - 2025-07-20: fix typo
 - 2025-07-21: minor edit
 - 2025-07-22: update reference
+- 2025-07-24: fix formatting
