@@ -23,3 +23,4 @@
 - 2025-07-18: clean up
 - 2025-07-21: add detail
 - 2025-07-22: tweak layout
+- 2025-07-24: improve structure
