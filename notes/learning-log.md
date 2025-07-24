@@ -20,3 +20,4 @@
 - 2025-07-16: minor fix
 - 2025-07-18: update notes
 - 2025-07-21: adjust format
+- 2025-07-24: add comments
