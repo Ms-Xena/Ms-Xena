@@ -24,3 +24,4 @@
 - 2025-07-21: add detail
 - 2025-07-22: tweak layout
 - 2025-07-24: improve structure
+- 2025-07-25: adjust layout
