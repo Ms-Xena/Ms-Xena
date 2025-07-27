@@ -23,3 +23,4 @@
 - 2025-07-16: update notes
 - 2025-07-22: improve flow
 - 2025-07-25: revise notes
+- 2025-07-27: edit content
