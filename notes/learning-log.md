@@ -22,3 +22,4 @@
 - 2025-07-21: adjust format
 - 2025-07-24: add comments
 - 2025-07-26: fix indent
+- 2025-07-27: tweak layout
