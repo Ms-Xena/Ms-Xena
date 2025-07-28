@@ -26,3 +26,4 @@
 - 2025-07-24: improve structure
 - 2025-07-25: adjust layout
 - 2025-07-26: adjust layout
+- 2025-07-28: revise notes
