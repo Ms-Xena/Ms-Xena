@@ -25,3 +25,4 @@
 - 2025-07-16: clean up
 - 2025-07-18: improve flow
 - 2025-07-27: update file
+- 2025-07-28: adjust layout
