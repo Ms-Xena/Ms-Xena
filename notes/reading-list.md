@@ -26,3 +26,4 @@
 - 2025-07-27: edit content
 - 2025-07-28: fix indent
 - 2025-07-28: clean formatting
+- 2025-07-29: update docs
