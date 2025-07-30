@@ -26,3 +26,4 @@
 - 2025-07-18: improve flow
 - 2025-07-27: update file
 - 2025-07-28: adjust layout
+- 2025-07-30: fix spacing
