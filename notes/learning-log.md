@@ -25,3 +25,4 @@
 - 2025-07-27: tweak layout
 - 2025-07-28: fix spacing
 - 2025-07-30: revise notes
+- 2025-07-31: update reference
