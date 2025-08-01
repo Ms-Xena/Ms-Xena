@@ -29,3 +29,4 @@
 - 2025-07-28: revise notes
 - 2025-07-29: minor fix
 - 2025-07-30: quick fix
+- 2025-08-01: update log
