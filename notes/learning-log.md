@@ -26,3 +26,4 @@
 - 2025-07-28: fix spacing
 - 2025-07-30: revise notes
 - 2025-07-31: update reference
+- 2025-08-01: restructure
