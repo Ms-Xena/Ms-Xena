@@ -27,3 +27,4 @@
 - 2025-07-30: revise notes
 - 2025-07-31: update reference
 - 2025-08-01: restructure
+- 2025-08-03: small improvement
