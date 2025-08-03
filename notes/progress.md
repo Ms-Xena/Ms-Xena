@@ -30,3 +30,4 @@
 - 2025-07-31: tweak layout
 - 2025-08-01: fix link
 - 2025-08-02: improve readability
+- 2025-08-03: reorganize
