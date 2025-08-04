@@ -31,3 +31,4 @@
 - 2025-08-01: fix link
 - 2025-08-02: improve readability
 - 2025-08-03: reorganize
+- 2025-08-04: minor fix
