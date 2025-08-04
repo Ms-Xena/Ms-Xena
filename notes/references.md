@@ -31,3 +31,4 @@
 - 2025-07-29: update config
 - 2025-07-31: edit content
 - 2025-08-01: fix typo
+- 2025-08-04: update notes
