@@ -29,3 +29,4 @@
 - 2025-08-01: restructure
 - 2025-08-03: small improvement
 - 2025-08-04: update config
+- 2025-08-05: add detail
