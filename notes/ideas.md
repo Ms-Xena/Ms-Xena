@@ -32,3 +32,4 @@
 - 2025-08-01: update log
 - 2025-08-04: update docs
 - 2025-08-05: minor edit
+- 2025-08-06: refactor logic
