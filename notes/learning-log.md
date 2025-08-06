@@ -30,3 +30,4 @@
 - 2025-08-03: small improvement
 - 2025-08-04: update config
 - 2025-08-05: add detail
+- 2025-08-06: revise draft
