@@ -33,3 +33,4 @@
 - 2025-08-01: fix typo
 - 2025-08-04: update notes
 - 2025-08-05: revise draft
+- 2025-08-06: add comments
