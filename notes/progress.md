@@ -34,3 +34,4 @@
 - 2025-08-04: minor fix
 - 2025-08-05: adjust format
 - 2025-08-06: minor edit
+- 2025-08-07: add detail
