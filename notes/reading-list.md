@@ -34,3 +34,4 @@
 - 2025-08-05: improve readability
 - 2025-08-05: refactor logic
 - 2025-08-06: add detail
+- 2025-08-07: adjust format
