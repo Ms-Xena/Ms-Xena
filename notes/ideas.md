@@ -33,3 +33,4 @@
 - 2025-08-04: update docs
 - 2025-08-05: minor edit
 - 2025-08-06: refactor logic
+- 2025-08-07: add entry
