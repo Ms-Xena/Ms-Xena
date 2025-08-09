@@ -32,3 +32,4 @@
 - 2025-08-05: add detail
 - 2025-08-06: revise draft
 - 2025-08-07: minor edit
+- 2025-08-09: update reference
