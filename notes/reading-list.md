@@ -35,3 +35,4 @@
 - 2025-08-05: refactor logic
 - 2025-08-06: add detail
 - 2025-08-07: adjust format
+- 2025-08-10: quick fix
