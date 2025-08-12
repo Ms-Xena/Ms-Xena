@@ -37,3 +37,4 @@
 - 2025-08-07: add detail
 - 2025-08-09: tweak layout
 - 2025-08-11: update readme
+- 2025-08-12: add detail
