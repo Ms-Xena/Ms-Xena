@@ -36,3 +36,4 @@
 - 2025-08-06: add comments
 - 2025-08-07: improve readability
 - 2025-08-10: revise notes
+- 2025-08-12: refactor logic
