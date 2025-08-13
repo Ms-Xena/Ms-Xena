@@ -36,3 +36,4 @@
 - 2025-08-07: add entry
 - 2025-08-09: improve flow
 - 2025-08-12: revise draft
+- 2025-08-13: improve flow
