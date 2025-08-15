@@ -38,3 +38,4 @@
 - 2025-08-12: revise draft
 - 2025-08-13: improve flow
 - 2025-08-14: refactor logic
+- 2025-08-15: improve flow
