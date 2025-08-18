@@ -39,3 +39,4 @@
 - 2025-08-13: improve flow
 - 2025-08-14: refactor logic
 - 2025-08-15: improve flow
+- 2025-08-18: polish content
