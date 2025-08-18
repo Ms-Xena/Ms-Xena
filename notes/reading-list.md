@@ -40,3 +40,4 @@
 - 2025-08-12: adjust format
 - 2025-08-13: clean up
 - 2025-08-14: improve structure
+- 2025-08-18: improve readability
