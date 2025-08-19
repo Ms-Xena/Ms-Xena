@@ -42,3 +42,4 @@
 - 2025-08-15: tweak layout
 - 2025-08-17: add entry
 - 2025-08-18: adjust format
+- 2025-08-19: minor fix
