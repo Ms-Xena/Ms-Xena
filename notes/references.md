@@ -42,3 +42,4 @@
 - 2025-08-15: update notes
 - 2025-08-18: add entry
 - 2025-08-19: update notes
+- 2025-08-20: update readme
