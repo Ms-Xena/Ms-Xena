@@ -41,3 +41,4 @@
 - 2025-08-19: update reference
 - 2025-08-21: minor update
 - 2025-08-22: add detail
+- 2025-08-22: improve structure
