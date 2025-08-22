@@ -43,3 +43,4 @@
 - 2025-08-18: improve readability
 - 2025-08-19: clean up
 - 2025-08-20: add reference
+- 2025-08-22: refactor logic
