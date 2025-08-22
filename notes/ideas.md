@@ -42,3 +42,4 @@
 - 2025-08-18: polish content
 - 2025-08-19: improve flow
 - 2025-08-21: update list
+- 2025-08-22: minor edit
