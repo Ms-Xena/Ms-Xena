@@ -44,3 +44,4 @@
 - 2025-08-19: update notes
 - 2025-08-20: update readme
 - 2025-08-22: revise draft
+- 2025-08-23: update links
