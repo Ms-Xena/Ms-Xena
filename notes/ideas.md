@@ -43,3 +43,4 @@
 - 2025-08-19: improve flow
 - 2025-08-21: update list
 - 2025-08-22: minor edit
+- 2025-08-25: refactor logic
