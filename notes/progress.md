@@ -47,3 +47,4 @@
 - 2025-08-22: adjust format
 - 2025-08-22: add comments
 - 2025-08-25: minor edit
+- 2025-08-26: revise draft
