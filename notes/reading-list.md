@@ -45,3 +45,4 @@
 - 2025-08-20: add reference
 - 2025-08-22: refactor logic
 - 2025-08-25: add detail
+- 2025-08-26: minor edit
