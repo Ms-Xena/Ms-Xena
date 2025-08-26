@@ -44,3 +44,4 @@
 - 2025-08-21: update list
 - 2025-08-22: minor edit
 - 2025-08-25: refactor logic
+- 2025-08-26: adjust format
