@@ -43,3 +43,4 @@
 - 2025-08-22: add detail
 - 2025-08-22: improve structure
 - 2025-08-25: revise draft
+- 2025-08-26: refactor logic
