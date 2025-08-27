@@ -46,3 +46,4 @@
 - 2025-08-22: refactor logic
 - 2025-08-25: add detail
 - 2025-08-26: minor edit
+- 2025-08-27: update log
