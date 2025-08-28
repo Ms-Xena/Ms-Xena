@@ -47,3 +47,4 @@
 - 2025-08-26: adjust format
 - 2025-08-26: add comments
 - 2025-08-27: fix link
+- 2025-08-28: add entry
