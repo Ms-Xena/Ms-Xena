@@ -48,3 +48,4 @@
 - 2025-08-24: code cleanup
 - 2025-08-26: add detail
 - 2025-08-27: restructure
+- 2025-08-28: improve readability
