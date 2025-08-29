@@ -49,3 +49,4 @@
 - 2025-08-25: minor edit
 - 2025-08-26: revise draft
 - 2025-08-27: fix typo
+- 2025-08-29: reorganize
