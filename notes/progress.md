@@ -50,3 +50,4 @@
 - 2025-08-26: revise draft
 - 2025-08-27: fix typo
 - 2025-08-29: reorganize
+- 2025-08-30: add entry
