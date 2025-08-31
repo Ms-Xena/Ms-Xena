@@ -46,3 +46,4 @@
 - 2025-08-26: refactor logic
 - 2025-08-27: clean formatting
 - 2025-08-29: small improvement
+- 2025-08-31: update docs
