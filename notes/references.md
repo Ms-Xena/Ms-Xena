@@ -50,3 +50,4 @@
 - 2025-08-27: restructure
 - 2025-08-28: improve readability
 - 2025-08-29: minor update
+- 2025-09-01: minor edit
