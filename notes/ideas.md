@@ -50,3 +50,4 @@
 - 2025-08-28: add entry
 - 2025-08-29: update links
 - 2025-08-31: code cleanup
+- 2025-09-01: add detail
