@@ -50,3 +50,4 @@
 - 2025-08-28: adjust format
 - 2025-08-29: add reference
 - 2025-08-29: update list
+- 2025-09-01: revise draft
