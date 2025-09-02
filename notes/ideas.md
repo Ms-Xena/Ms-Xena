@@ -51,3 +51,4 @@
 - 2025-08-29: update links
 - 2025-08-31: code cleanup
 - 2025-09-01: add detail
+- 2025-09-02: fix formatting
