@@ -52,3 +52,4 @@
 - 2025-08-29: update list
 - 2025-09-01: revise draft
 - 2025-09-02: fix indent
+- 2025-09-03: adjust format
