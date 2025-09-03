@@ -53,3 +53,4 @@
 - 2025-08-30: add entry
 - 2025-09-01: refactor logic
 - 2025-09-02: adjust layout
+- 2025-09-03: add detail
