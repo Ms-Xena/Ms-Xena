@@ -53,3 +53,4 @@
 - 2025-09-01: revise draft
 - 2025-09-02: fix indent
 - 2025-09-03: adjust format
+- 2025-09-04: restructure
