@@ -54,3 +54,4 @@
 - 2025-09-01: refactor logic
 - 2025-09-02: adjust layout
 - 2025-09-03: add detail
+- 2025-09-04: update log
