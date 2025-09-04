@@ -54,3 +54,4 @@
 - 2025-09-02: fix indent
 - 2025-09-03: adjust format
 - 2025-09-04: restructure
+- 2025-09-04: reorganize
