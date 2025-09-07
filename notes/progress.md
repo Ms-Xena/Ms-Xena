@@ -55,3 +55,4 @@
 - 2025-09-02: adjust layout
 - 2025-09-03: add detail
 - 2025-09-04: update log
+- 2025-09-07: fix typo
