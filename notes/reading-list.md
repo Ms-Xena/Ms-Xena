@@ -55,3 +55,4 @@
 - 2025-09-03: adjust format
 - 2025-09-04: restructure
 - 2025-09-04: reorganize
+- 2025-09-08: polish content
