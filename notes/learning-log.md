@@ -54,3 +54,4 @@
 - 2025-09-03: minor edit
 - 2025-09-04: fix typo
 - 2025-09-05: update list
+- 2025-09-08: update docs
