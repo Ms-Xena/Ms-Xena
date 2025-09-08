@@ -55,3 +55,4 @@
 - 2025-09-03: improve readability
 - 2025-09-04: add reference
 - 2025-09-05: update file
+- 2025-09-08: revise section
