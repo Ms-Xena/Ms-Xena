@@ -58,3 +58,4 @@
 - 2025-09-07: fix typo
 - 2025-09-08: update config
 - 2025-09-08: add entry
+- 2025-09-09: tweak layout
