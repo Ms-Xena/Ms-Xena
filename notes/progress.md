@@ -60,3 +60,4 @@
 - 2025-09-08: add entry
 - 2025-09-09: tweak layout
 - 2025-09-10: update reference
+- 2025-09-11: adjust format
