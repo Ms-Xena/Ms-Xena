@@ -59,3 +59,4 @@
 - 2025-09-09: update file
 - 2025-09-09: clean up
 - 2025-09-10: tweak layout
+- 2025-09-11: improve readability
