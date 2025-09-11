@@ -58,3 +58,4 @@
 - 2025-09-08: code cleanup
 - 2025-09-09: improve flow
 - 2025-09-10: update notes
+- 2025-09-11: polish content
