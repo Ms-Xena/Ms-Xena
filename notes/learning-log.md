@@ -57,3 +57,4 @@
 - 2025-09-08: update docs
 - 2025-09-09: update reference
 - 2025-09-10: improve flow
+- 2025-09-11: revise section
