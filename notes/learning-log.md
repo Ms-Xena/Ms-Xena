@@ -61,3 +61,4 @@
 - 2025-09-11: add detail
 - 2025-09-12: restructure
 - 2025-09-15: adjust layout
+- 2025-09-15: fix link
