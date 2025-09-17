@@ -63,3 +63,4 @@
 - 2025-09-15: adjust layout
 - 2025-09-15: fix link
 - 2025-09-16: update list
+- 2025-09-17: minor update
