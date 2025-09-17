@@ -61,3 +61,4 @@
 - 2025-09-11: polish content
 - 2025-09-15: fix spacing
 - 2025-09-16: edit content
+- 2025-09-17: update list
