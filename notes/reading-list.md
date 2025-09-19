@@ -63,3 +63,4 @@
 - 2025-09-12: clean formatting
 - 2025-09-15: quick fix
 - 2025-09-18: update file
+- 2025-09-19: revise notes
