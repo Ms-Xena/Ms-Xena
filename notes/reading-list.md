@@ -64,3 +64,4 @@
 - 2025-09-15: quick fix
 - 2025-09-18: update file
 - 2025-09-19: revise notes
+- 2025-09-20: update config
