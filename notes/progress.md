@@ -68,3 +68,4 @@
 - 2025-09-17: update links
 - 2025-09-18: tweak layout
 - 2025-09-19: quick fix
+- 2025-09-22: improve structure
