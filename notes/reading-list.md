@@ -66,3 +66,4 @@
 - 2025-09-19: revise notes
 - 2025-09-20: update config
 - 2025-09-22: add comments
+- 2025-09-23: reorganize
