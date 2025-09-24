@@ -68,3 +68,4 @@
 - 2025-09-22: add comments
 - 2025-09-23: reorganize
 - 2025-09-24: revise draft
+- 2025-09-24: add notes
