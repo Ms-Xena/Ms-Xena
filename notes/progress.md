@@ -70,3 +70,4 @@
 - 2025-09-19: quick fix
 - 2025-09-22: improve structure
 - 2025-09-23: small improvement
+- 2025-09-24: refactor logic
