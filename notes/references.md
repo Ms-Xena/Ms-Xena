@@ -68,3 +68,4 @@
 - 2025-09-23: add reference
 - 2025-09-24: fix formatting
 - 2025-09-26: revise notes
+- 2025-09-29: update log
