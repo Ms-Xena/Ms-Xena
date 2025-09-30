@@ -67,3 +67,4 @@
 - 2025-09-26: fix spacing
 - 2025-09-27: minor fix
 - 2025-09-29: restructure
+- 2025-09-30: update config
