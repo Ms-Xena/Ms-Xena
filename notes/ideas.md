@@ -68,3 +68,4 @@
 - 2025-09-27: minor fix
 - 2025-09-29: restructure
 - 2025-09-30: update config
+- 2025-10-01: fix formatting
