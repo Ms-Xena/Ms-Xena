@@ -72,3 +72,4 @@
 - 2025-09-27: clean up
 - 2025-09-29: fix link
 - 2025-09-30: minor fix
+- 2025-10-01: improve structure
