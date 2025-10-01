@@ -69,3 +69,4 @@
 - 2025-09-24: fix formatting
 - 2025-09-26: revise notes
 - 2025-09-29: update log
+- 2025-10-01: add notes
