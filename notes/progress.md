@@ -79,3 +79,4 @@
 - 2025-10-01: add comments
 - 2025-10-01: adjust layout
 - 2025-10-03: minor update
+- 2025-10-04: edit content
