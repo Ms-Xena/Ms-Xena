@@ -72,3 +72,4 @@
 - 2025-10-03: edit content
 - 2025-10-04: tweak layout
 - 2025-10-05: refactor logic
+- 2025-10-07: improve readability
