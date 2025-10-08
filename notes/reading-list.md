@@ -73,3 +73,4 @@
 - 2025-09-26: quick fix
 - 2025-10-01: fix indent
 - 2025-10-06: fix formatting
+- 2025-10-08: update config
