@@ -72,3 +72,4 @@
 - 2025-10-01: add notes
 - 2025-10-05: add comments
 - 2025-10-06: improve structure
+- 2025-10-08: minor fix
