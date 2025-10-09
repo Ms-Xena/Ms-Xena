@@ -81,3 +81,4 @@
 - 2025-10-03: minor update
 - 2025-10-04: edit content
 - 2025-10-07: polish content
+- 2025-10-09: reorganize
