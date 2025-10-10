@@ -76,3 +76,4 @@
 - 2025-10-08: update config
 - 2025-10-09: add reference
 - 2025-10-09: update list
+- 2025-10-10: revise section
