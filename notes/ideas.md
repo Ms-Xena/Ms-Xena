@@ -76,3 +76,4 @@
 - 2025-10-08: clean up
 - 2025-10-09: update links
 - 2025-10-11: revise section
+- 2025-10-13: revise notes
