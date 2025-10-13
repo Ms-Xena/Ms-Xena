@@ -84,3 +84,4 @@
 - 2025-10-09: reorganize
 - 2025-10-10: polish content
 - 2025-10-11: update docs
+- 2025-10-13: fix link
