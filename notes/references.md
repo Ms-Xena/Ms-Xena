@@ -76,3 +76,4 @@
 - 2025-10-09: minor update
 - 2025-10-13: quick fix
 - 2025-10-14: edit content
+- 2025-10-15: tweak layout
