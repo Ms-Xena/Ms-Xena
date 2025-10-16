@@ -78,3 +78,4 @@
 - 2025-10-11: revise section
 - 2025-10-13: revise notes
 - 2025-10-13: update log
+- 2025-10-16: add detail
