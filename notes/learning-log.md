@@ -79,3 +79,4 @@
 - 2025-10-09: small improvement
 - 2025-10-11: code cleanup
 - 2025-10-13: restructure
+- 2025-10-16: adjust format
