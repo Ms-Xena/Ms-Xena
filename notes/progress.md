@@ -86,3 +86,4 @@
 - 2025-10-11: update docs
 - 2025-10-13: fix link
 - 2025-10-16: improve readability
+- 2025-10-17: update notes
