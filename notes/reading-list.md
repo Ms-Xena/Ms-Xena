@@ -82,3 +82,4 @@
 - 2025-10-14: update file
 - 2025-10-15: update reference
 - 2025-10-17: improve flow
+- 2025-10-18: fix typo
