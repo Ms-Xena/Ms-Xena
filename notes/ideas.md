@@ -80,3 +80,4 @@
 - 2025-10-13: update log
 - 2025-10-16: add detail
 - 2025-10-17: minor fix
+- 2025-10-19: restructure
