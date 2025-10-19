@@ -82,3 +82,4 @@
 - 2025-10-16: adjust format
 - 2025-10-17: clean up
 - 2025-10-18: add reference
+- 2025-10-19: fix link
