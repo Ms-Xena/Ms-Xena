@@ -83,3 +83,4 @@
 - 2025-10-15: update reference
 - 2025-10-17: improve flow
 - 2025-10-18: fix typo
+- 2025-10-20: adjust format
