@@ -90,3 +90,4 @@
 - 2025-10-18: update readme
 - 2025-10-19: clean formatting
 - 2025-10-20: add detail
+- 2025-10-21: quick fix
