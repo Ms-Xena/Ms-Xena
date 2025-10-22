@@ -85,3 +85,4 @@
 - 2025-10-19: fix link
 - 2025-10-20: minor edit
 - 2025-10-21: clean formatting
+- 2025-10-22: tweak layout
