@@ -87,3 +87,4 @@
 - 2025-10-21: clean formatting
 - 2025-10-22: tweak layout
 - 2025-10-22: minor fix
+- 2025-10-23: improve structure
