@@ -79,3 +79,4 @@
 - 2025-10-15: tweak layout
 - 2025-10-17: update reference
 - 2025-10-22: improve flow
+- 2025-10-23: add notes
