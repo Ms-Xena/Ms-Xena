@@ -81,3 +81,4 @@
 - 2025-10-22: improve flow
 - 2025-10-23: add notes
 - 2025-10-24: clean up
+- 2025-10-27: revise section
