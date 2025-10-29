@@ -88,3 +88,4 @@
 - 2025-10-23: fix indent
 - 2025-10-24: minor fix
 - 2025-10-27: polish content
+- 2025-10-29: clean formatting
