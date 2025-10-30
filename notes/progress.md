@@ -97,3 +97,4 @@
 - 2025-10-24: update config
 - 2025-10-27: add entry
 - 2025-10-29: fix link
+- 2025-10-30: tweak layout
