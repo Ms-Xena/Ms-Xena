@@ -83,3 +83,4 @@
 - 2025-10-24: clean up
 - 2025-10-27: revise section
 - 2025-10-29: quick fix
+- 2025-10-31: add notes
