@@ -99,3 +99,4 @@
 - 2025-10-29: fix link
 - 2025-10-30: tweak layout
 - 2025-10-31: adjust layout
+- 2025-11-01: clean formatting
