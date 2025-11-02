@@ -84,3 +84,4 @@
 - 2025-10-27: revise section
 - 2025-10-29: quick fix
 - 2025-10-31: add notes
+- 2025-11-02: add detail
