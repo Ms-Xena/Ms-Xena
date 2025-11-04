@@ -86,3 +86,4 @@
 - 2025-10-31: add notes
 - 2025-11-02: add detail
 - 2025-11-03: update readme
+- 2025-11-04: small improvement
