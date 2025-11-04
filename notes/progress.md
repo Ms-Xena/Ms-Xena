@@ -100,3 +100,4 @@
 - 2025-10-30: tweak layout
 - 2025-10-31: adjust layout
 - 2025-11-01: clean formatting
+- 2025-11-04: minor update
