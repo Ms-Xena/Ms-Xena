@@ -101,3 +101,4 @@
 - 2025-10-31: adjust layout
 - 2025-11-01: clean formatting
 - 2025-11-04: minor update
+- 2025-11-05: fix typo
