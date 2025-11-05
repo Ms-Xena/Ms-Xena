@@ -90,3 +90,4 @@
 - 2025-10-31: fix formatting
 - 2025-11-03: fix typo
 - 2025-11-04: reorganize
+- 2025-11-05: fix link
