@@ -88,3 +88,4 @@
 - 2025-11-03: update readme
 - 2025-11-04: small improvement
 - 2025-11-05: restructure
+- 2025-11-06: fix link
