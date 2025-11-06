@@ -97,3 +97,4 @@
 - 2025-11-04: update list
 - 2025-11-05: update readme
 - 2025-11-06: quick fix
+- 2025-11-06: fix typo
