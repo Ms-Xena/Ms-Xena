@@ -94,3 +94,4 @@
 - 2025-11-02: minor edit
 - 2025-11-04: update links
 - 2025-11-05: update log
+- 2025-11-06: restructure
