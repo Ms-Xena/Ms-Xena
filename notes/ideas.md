@@ -92,3 +92,4 @@
 - 2025-11-04: reorganize
 - 2025-11-05: fix link
 - 2025-11-05: add reference
+- 2025-11-06: clean formatting
