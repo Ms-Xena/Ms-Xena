@@ -102,3 +102,4 @@
 - 2025-11-01: clean formatting
 - 2025-11-04: minor update
 - 2025-11-05: fix typo
+- 2025-11-06: revise notes
