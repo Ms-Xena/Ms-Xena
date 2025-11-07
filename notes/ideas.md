@@ -93,3 +93,4 @@
 - 2025-11-05: fix link
 - 2025-11-05: add reference
 - 2025-11-06: clean formatting
+- 2025-11-07: small improvement
