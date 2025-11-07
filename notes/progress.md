@@ -104,3 +104,4 @@
 - 2025-11-05: fix typo
 - 2025-11-06: revise notes
 - 2025-11-06: update log
+- 2025-11-07: add reference
