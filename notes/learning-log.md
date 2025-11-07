@@ -98,3 +98,4 @@
 - 2025-11-05: update readme
 - 2025-11-06: quick fix
 - 2025-11-06: fix typo
+- 2025-11-07: reorganize
