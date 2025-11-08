@@ -90,3 +90,4 @@
 - 2025-11-05: restructure
 - 2025-11-06: fix link
 - 2025-11-07: update links
+- 2025-11-08: quick fix
