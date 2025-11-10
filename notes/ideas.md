@@ -95,3 +95,4 @@
 - 2025-11-06: clean formatting
 - 2025-11-07: small improvement
 - 2025-11-08: revise notes
+- 2025-11-10: adjust format
