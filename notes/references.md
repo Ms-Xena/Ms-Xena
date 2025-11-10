@@ -91,3 +91,4 @@
 - 2025-11-06: fix link
 - 2025-11-07: update links
 - 2025-11-08: quick fix
+- 2025-11-10: add detail
