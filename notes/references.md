@@ -92,3 +92,4 @@
 - 2025-11-07: update links
 - 2025-11-08: quick fix
 - 2025-11-10: add detail
+- 2025-11-11: update readme
