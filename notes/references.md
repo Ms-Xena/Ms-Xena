@@ -93,3 +93,4 @@
 - 2025-11-08: quick fix
 - 2025-11-10: add detail
 - 2025-11-11: update readme
+- 2025-11-12: update log
