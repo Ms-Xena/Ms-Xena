@@ -96,3 +96,4 @@
 - 2025-11-05: update log
 - 2025-11-06: restructure
 - 2025-11-07: update readme
+- 2025-11-12: fix typo
