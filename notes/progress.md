@@ -105,3 +105,4 @@
 - 2025-11-06: revise notes
 - 2025-11-06: update log
 - 2025-11-07: add reference
+- 2025-11-12: clean formatting
