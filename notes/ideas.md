@@ -98,3 +98,4 @@
 - 2025-11-10: adjust format
 - 2025-11-11: fix typo
 - 2025-11-12: restructure
+- 2025-11-13: adjust layout
