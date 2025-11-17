@@ -100,3 +100,4 @@
 - 2025-11-12: restructure
 - 2025-11-13: adjust layout
 - 2025-11-15: improve structure
+- 2025-11-17: adjust format
