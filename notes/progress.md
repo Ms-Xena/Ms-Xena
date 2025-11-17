@@ -109,3 +109,4 @@
 - 2025-11-12: update readme
 - 2025-11-13: add notes
 - 2025-11-13: quick fix
+- 2025-11-17: add entry
