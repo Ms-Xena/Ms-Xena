@@ -97,3 +97,4 @@
 - 2025-11-13: fix spacing
 - 2025-11-14: update file
 - 2025-11-16: minor update
+- 2025-11-17: add detail
