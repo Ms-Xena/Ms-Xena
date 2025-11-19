@@ -102,3 +102,4 @@
 - 2025-11-15: improve structure
 - 2025-11-17: adjust format
 - 2025-11-18: tweak layout
+- 2025-11-19: minor fix
