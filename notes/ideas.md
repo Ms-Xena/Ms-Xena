@@ -103,3 +103,4 @@
 - 2025-11-17: adjust format
 - 2025-11-18: tweak layout
 - 2025-11-19: minor fix
+- 2025-11-20: polish content
