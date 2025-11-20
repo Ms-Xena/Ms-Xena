@@ -106,3 +106,4 @@
 - 2025-11-17: improve readability
 - 2025-11-18: update file
 - 2025-11-19: clean up
+- 2025-11-20: revise section
