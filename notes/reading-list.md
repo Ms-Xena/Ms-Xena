@@ -99,3 +99,4 @@
 - 2025-11-12: fix typo
 - 2025-11-13: revise notes
 - 2025-11-14: tweak layout
+- 2025-11-21: minor fix
