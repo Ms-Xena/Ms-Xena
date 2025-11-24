@@ -104,3 +104,4 @@
 - 2025-11-18: tweak layout
 - 2025-11-19: minor fix
 - 2025-11-20: polish content
+- 2025-11-24: fix indent
