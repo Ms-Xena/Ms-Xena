@@ -100,3 +100,4 @@
 - 2025-11-17: add detail
 - 2025-11-20: add entry
 - 2025-11-21: clean up
+- 2025-11-24: add comments
