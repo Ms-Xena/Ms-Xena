@@ -108,3 +108,4 @@
 - 2025-11-19: clean up
 - 2025-11-20: revise section
 - 2025-11-22: fix spacing
+- 2025-11-24: add notes
