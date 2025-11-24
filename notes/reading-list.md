@@ -102,3 +102,4 @@
 - 2025-11-21: minor fix
 - 2025-11-22: fix indent
 - 2025-11-23: edit content
+- 2025-11-24: improve structure
