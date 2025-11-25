@@ -105,3 +105,4 @@
 - 2025-11-19: minor fix
 - 2025-11-20: polish content
 - 2025-11-24: fix indent
+- 2025-11-25: edit content
