@@ -114,3 +114,4 @@
 - 2025-11-19: update notes
 - 2025-11-22: adjust layout
 - 2025-11-24: fix formatting
+- 2025-11-26: revise notes
