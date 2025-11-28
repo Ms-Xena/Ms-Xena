@@ -117,3 +117,4 @@
 - 2025-11-26: revise notes
 - 2025-11-27: revise section
 - 2025-11-28: update list
+- 2025-11-28: improve flow
