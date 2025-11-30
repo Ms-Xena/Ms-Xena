@@ -109,3 +109,4 @@
 - 2025-11-26: clean formatting
 - 2025-11-27: add entry
 - 2025-11-28: update file
+- 2025-11-30: add comments
