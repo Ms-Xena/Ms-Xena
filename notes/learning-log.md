@@ -113,3 +113,4 @@
 - 2025-11-27: polish content
 - 2025-11-28: edit content
 - 2025-11-28: update notes
+- 2025-11-30: refactor logic
