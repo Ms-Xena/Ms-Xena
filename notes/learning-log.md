@@ -114,3 +114,4 @@
 - 2025-11-28: edit content
 - 2025-11-28: update notes
 - 2025-11-30: refactor logic
+- 2025-12-01: revise draft
