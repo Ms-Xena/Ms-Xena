@@ -106,3 +106,4 @@
 - 2025-11-27: code cleanup
 - 2025-11-28: update reference
 - 2025-11-29: revise section
+- 2025-12-01: add detail
