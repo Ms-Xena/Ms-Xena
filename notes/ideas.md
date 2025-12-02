@@ -111,3 +111,4 @@
 - 2025-11-28: update file
 - 2025-11-30: add comments
 - 2025-12-01: refactor logic
+- 2025-12-02: add detail
