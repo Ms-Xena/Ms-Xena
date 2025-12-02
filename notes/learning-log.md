@@ -115,3 +115,4 @@
 - 2025-11-28: update notes
 - 2025-11-30: refactor logic
 - 2025-12-01: revise draft
+- 2025-12-02: adjust format
