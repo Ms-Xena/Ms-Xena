@@ -107,3 +107,4 @@
 - 2025-11-28: tweak layout
 - 2025-11-29: code cleanup
 - 2025-12-01: add comments
+- 2025-12-02: polish content
