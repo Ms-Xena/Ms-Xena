@@ -119,3 +119,4 @@
 - 2025-11-28: update list
 - 2025-11-28: improve flow
 - 2025-12-01: minor edit
+- 2025-12-02: improve readability
