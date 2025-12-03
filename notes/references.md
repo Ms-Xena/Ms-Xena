@@ -108,3 +108,4 @@
 - 2025-11-29: code cleanup
 - 2025-12-01: add comments
 - 2025-12-02: polish content
+- 2025-12-03: improve structure
