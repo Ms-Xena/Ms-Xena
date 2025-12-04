@@ -109,3 +109,4 @@
 - 2025-12-01: add detail
 - 2025-12-02: add entry
 - 2025-12-03: minor edit
+- 2025-12-04: fix typo
