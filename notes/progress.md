@@ -121,3 +121,4 @@
 - 2025-12-01: minor edit
 - 2025-12-02: improve readability
 - 2025-12-03: revise draft
+- 2025-12-04: update readme
