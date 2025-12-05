@@ -123,3 +123,4 @@
 - 2025-12-03: revise draft
 - 2025-12-04: update readme
 - 2025-12-05: fix link
+- 2025-12-05: add reference
