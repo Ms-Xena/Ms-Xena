@@ -114,3 +114,4 @@
 - 2025-12-02: add detail
 - 2025-12-03: add comments
 - 2025-12-04: reorganize
+- 2025-12-05: update log
