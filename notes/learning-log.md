@@ -118,3 +118,4 @@
 - 2025-12-02: adjust format
 - 2025-12-03: refactor logic
 - 2025-12-04: add reference
+- 2025-12-05: restructure
