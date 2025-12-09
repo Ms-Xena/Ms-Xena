@@ -119,3 +119,4 @@
 - 2025-12-03: refactor logic
 - 2025-12-04: add reference
 - 2025-12-05: restructure
+- 2025-12-09: improve readability
