@@ -112,3 +112,4 @@
 - 2025-12-05: fix typo
 - 2025-12-07: fix link
 - 2025-12-08: improve flow
+- 2025-12-09: add detail
