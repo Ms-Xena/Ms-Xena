@@ -124,3 +124,4 @@
 - 2025-12-04: update readme
 - 2025-12-05: fix link
 - 2025-12-05: add reference
+- 2025-12-09: add entry
