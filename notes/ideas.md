@@ -116,3 +116,4 @@
 - 2025-12-04: reorganize
 - 2025-12-05: update log
 - 2025-12-08: update reference
+- 2025-12-09: adjust format
