@@ -126,3 +126,4 @@
 - 2025-12-05: add reference
 - 2025-12-09: add entry
 - 2025-12-09: revise draft
+- 2025-12-11: update notes
