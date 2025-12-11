@@ -118,3 +118,4 @@
 - 2025-12-08: update reference
 - 2025-12-09: adjust format
 - 2025-12-10: edit content
+- 2025-12-11: tweak layout
