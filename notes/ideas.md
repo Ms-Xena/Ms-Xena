@@ -120,3 +120,4 @@
 - 2025-12-10: edit content
 - 2025-12-11: tweak layout
 - 2025-12-12: small improvement
+- 2025-12-14: restructure
