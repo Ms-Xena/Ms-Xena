@@ -117,3 +117,4 @@
 - 2025-12-11: improve flow
 - 2025-12-12: update readme
 - 2025-12-13: minor edit
+- 2025-12-15: adjust layout
