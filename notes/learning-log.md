@@ -126,3 +126,4 @@
 - 2025-12-12: reorganize
 - 2025-12-14: fix link
 - 2025-12-15: fix formatting
+- 2025-12-15: revise notes
