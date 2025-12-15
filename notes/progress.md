@@ -128,3 +128,4 @@
 - 2025-12-09: revise draft
 - 2025-12-11: update notes
 - 2025-12-12: add reference
+- 2025-12-15: fix spacing
