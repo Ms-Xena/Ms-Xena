@@ -122,3 +122,4 @@
 - 2025-12-12: small improvement
 - 2025-12-14: restructure
 - 2025-12-15: add notes
+- 2025-12-17: update config
