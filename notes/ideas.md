@@ -124,3 +124,4 @@
 - 2025-12-15: add notes
 - 2025-12-17: update config
 - 2025-12-17: add entry
+- 2025-12-18: quick fix
