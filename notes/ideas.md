@@ -125,3 +125,4 @@
 - 2025-12-17: update config
 - 2025-12-17: add entry
 - 2025-12-18: quick fix
+- 2025-12-19: add reference
