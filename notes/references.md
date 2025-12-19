@@ -118,3 +118,4 @@
 - 2025-12-15: fix indent
 - 2025-12-17: update docs
 - 2025-12-18: clean formatting
+- 2025-12-19: reorganize
