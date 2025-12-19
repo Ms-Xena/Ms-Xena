@@ -128,3 +128,4 @@
 - 2025-12-15: fix formatting
 - 2025-12-15: revise notes
 - 2025-12-17: polish content
+- 2025-12-19: update readme
