@@ -126,3 +126,4 @@
 - 2025-12-17: add entry
 - 2025-12-18: quick fix
 - 2025-12-19: add reference
+- 2025-12-21: small improvement
