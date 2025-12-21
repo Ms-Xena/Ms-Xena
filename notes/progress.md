@@ -132,3 +132,4 @@
 - 2025-12-17: revise section
 - 2025-12-19: fix typo
 - 2025-12-20: update notes
+- 2025-12-21: add reference
