@@ -133,3 +133,4 @@
 - 2025-12-19: fix typo
 - 2025-12-20: update notes
 - 2025-12-21: add reference
+- 2025-12-22: minor fix
