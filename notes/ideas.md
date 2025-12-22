@@ -127,3 +127,4 @@
 - 2025-12-18: quick fix
 - 2025-12-19: add reference
 - 2025-12-21: small improvement
+- 2025-12-22: update docs
