@@ -130,3 +130,4 @@
 - 2025-12-17: polish content
 - 2025-12-19: update readme
 - 2025-12-21: reorganize
+- 2025-12-22: update config
