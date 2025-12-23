@@ -128,3 +128,4 @@
 - 2025-12-19: add reference
 - 2025-12-21: small improvement
 - 2025-12-22: update docs
+- 2025-12-23: improve structure
