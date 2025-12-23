@@ -122,3 +122,4 @@
 - 2025-12-18: fix link
 - 2025-12-22: clean up
 - 2025-12-23: revise draft
+- 2025-12-23: add notes
