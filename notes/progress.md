@@ -134,3 +134,4 @@
 - 2025-12-20: update notes
 - 2025-12-21: add reference
 - 2025-12-22: minor fix
+- 2025-12-23: refactor logic
