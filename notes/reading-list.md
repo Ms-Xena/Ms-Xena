@@ -123,3 +123,4 @@
 - 2025-12-22: clean up
 - 2025-12-23: revise draft
 - 2025-12-23: add notes
+- 2025-12-25: update reference
