@@ -121,3 +121,4 @@
 - 2025-12-19: reorganize
 - 2025-12-22: update notes
 - 2025-12-23: fix formatting
+- 2025-12-25: tweak layout
