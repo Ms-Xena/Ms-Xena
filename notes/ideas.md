@@ -130,3 +130,4 @@
 - 2025-12-22: update docs
 - 2025-12-23: improve structure
 - 2025-12-25: update file
+- 2025-12-26: adjust layout
