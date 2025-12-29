@@ -137,3 +137,4 @@
 - 2025-12-23: refactor logic
 - 2025-12-25: improve flow
 - 2025-12-26: add notes
+- 2025-12-29: refactor logic
