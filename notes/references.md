@@ -125,3 +125,4 @@
 - 2025-12-26: improve structure
 - 2025-12-27: edit content
 - 2025-12-28: polish content
+- 2025-12-30: minor fix
