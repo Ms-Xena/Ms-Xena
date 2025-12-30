@@ -125,3 +125,4 @@
 - 2025-12-23: add notes
 - 2025-12-25: update reference
 - 2025-12-26: fix formatting
+- 2025-12-30: update config
