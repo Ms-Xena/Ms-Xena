@@ -133,3 +133,4 @@
 - 2025-12-26: adjust layout
 - 2025-12-29: improve structure
 - 2025-12-30: clean up
+- 2025-12-31: code cleanup
