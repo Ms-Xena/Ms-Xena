@@ -126,3 +126,4 @@
 - 2025-12-25: update reference
 - 2025-12-26: fix formatting
 - 2025-12-30: update config
+- 2026-01-02: update notes
