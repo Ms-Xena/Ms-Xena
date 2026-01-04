@@ -139,3 +139,4 @@
 - 2025-12-26: add notes
 - 2025-12-29: refactor logic
 - 2026-01-02: clean up
+- 2026-01-04: tweak layout
