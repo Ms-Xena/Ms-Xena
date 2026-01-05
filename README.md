@@ -16,36 +16,36 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0) with a passion for **data analytics, machine learning, and building impactful software solutions**. I believe in learning through real-world projects and turning complex problems into elegant solutions.
 
-- 🎓 **Harvard Aspire Leaders Program 2025** – Top 21% globally (9,362 of 45,228 applicants from 180+ countries)
-- 📊 Currently mastering **Data Analytics** through IBM and Google Professional Certificates
-- 💻 Building scalable applications with **Java, Python, SQL** and exploring **Machine Learning**
-- 🌱 Deepening my knowledge in **Linear Algebra, Statistics, and AI**
-- 🎯 **Goal**: Land a remote data analyst/ML role by 2026 and contribute to open-source projects
-- 💡 **Current Focus**: Completing data analytics projects on Kaggle and building my ML portfolio
+-  **Harvard Aspire Leaders Program 2025** – Top 21% globally (9,362 of 45,228 applicants from 180+ countries)
+-  Currently mastering **Data Analytics** through IBM and Google Professional Certificates
+-  Building scalable applications with **Java, Python, SQL** and exploring **Machine Learning**
+-  Deepening my knowledge in **Linear Algebra, Statistics, and AI**
+-  **Goal**: Land a remote data analyst/ML role by 2026 and contribute to open-source projects
+-  **Current Focus**: Completing data analytics projects on Kaggle and building my ML portfolio
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 <div align="center">
 
 | Achievement | Details |
 |------------|---------|
-| 🌍 **Harvard Aspire Leaders Program 2025** | Selected among top 21% globally (9,362 finalists from 45,228 applicants across 180+ countries) |
-| 📈 **Class High Achiever** | Maintaining 3.8/4.0 GPA with excellence in CS and Mathematics courses |
-| 🎪 **AI & CS Expo 2024** | Showcased educational AI project to 200+ attendees |
-| 👥 **CS & AI Society Member** | Active contributor to research discussions and tech innovation initiatives |
-| 📜 **McKinsey & Company Forward Program** | Completed professional development certification |
+|  **Harvard Aspire Leaders Program 2025** | Selected among top 21% globally (9,362 finalists from 45,228 applicants across 180+ countries) |
+|  **Class High Achiever** | Maintaining good GPA with excellence in CS and Mathematics courses |
+|  **AI & CS Expo 2024** | Showcased educational AI project to 200+ attendees |
+|  **CS & AI Society Member** | Active contributor to research discussions and tech innovation initiatives |
+|  **McKinsey & Company Forward Program** | Completed professional development certification |
 
 </div>
 
 ---
 
-## 🎓 Professional Certifications
+##  Professional Certifications
 
 <div align="center">
 
@@ -68,7 +68,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -107,9 +107,9 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
-### 🎓 Learning Management System (LMS) | *Spring 2025*
+###  Learning Management System (LMS) | *Spring 2025*
 **Tech Stack**: Java (Swing, JDBC) • SQL • MVC Architecture
 
 - Built a scalable educational platform serving **100+ users** with role-based access control
@@ -117,11 +117,11 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Implemented secure data architecture with comprehensive error handling
 - **Impact**: Streamlined course management for students and faculty
 
-[🔗 View Project](#) | [📄 Documentation](#)
+[ View Project](#) | [📄 Documentation](#)
 
 ---
 
-### 🎮 Vocabulary Builder Game | *Fall 2024*
+###  Vocabulary Builder Game | *Fall 2024*
 **Tech Stack**: Java • Agile Methodology • Game Design
 
 - Led **5-person team** to develop gamified learning app using Agile sprints
@@ -129,11 +129,11 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Designed adaptive difficulty system based on user performance
 - **Impact**: Made language learning interactive and measurable
 
-[🔗 View Project](#) | [📄 Documentation](#)
+[ View Project](#) | [📄 Documentation](#)
 
 ---
 
-### 📈 Data Analytics Research Projects | *Aug 2024 - Present*
+###  Data Analytics Research Projects | *Aug 2024 - Present*
 **Tech Stack**: Python (Pandas, NumPy) • R • SQL • Tableau
 
 - Analyzed education datasets with **1000+ records** to identify learning patterns and trends
@@ -141,11 +141,11 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Applied statistical methods for hypothesis testing and correlation analysis
 - **Impact**: Provided actionable insights for educational program improvements
 
-[🔗 View Notebooks](#) | [📊 Tableau Dashboards](#)
+[ View Notebooks](#) | [📊 Tableau Dashboards](#)
 
 ---
 
-### 🏢 Deloitte Data Analytics Job Simulation | *Summer 2025*
+###  Deloitte Data Analytics Job Simulation | *Summer 2025*
 **Tech Stack**: Excel • Tableau • Data Visualization
 
 - Completed comprehensive job simulation focusing on forensic technology and data analysis
@@ -153,15 +153,15 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 - Applied Excel analytics to classify data, identify trends, and derive business conclusions
 - **Impact**: Demonstrated real-world data analysis capabilities for consulting scenarios
 
-[🔗 View Simulation](#)
+[ View Simulation](#)
 
 ---
 
-## 📚 Education
+##  Education
 
 **Bachelor of Science in Computer Science**  
 *Sukkur IBA University, Pakistan* | Expected Graduation: June 2028  
-**GPA**: 3.8 / 4.0
+**GPA**: 3.7 / 4.0
 
 **Relevant Coursework**:
 - **Core CS**: Object-Oriented Programming, Data Structures, Algorithms, Software Engineering
@@ -173,7 +173,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -187,7 +187,7 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
@@ -197,5 +197,5 @@ I'm a **Computer Science undergraduate at Sukkur IBA University** (GPA: 3.8/4.0)
 
 ---
 
-## 🎯 Current Learning Journey
+##  Current Learning Journey
 ```mermaid
