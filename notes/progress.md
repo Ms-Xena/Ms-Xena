@@ -140,3 +140,4 @@
 - 2025-12-29: refactor logic
 - 2026-01-02: clean up
 - 2026-01-04: tweak layout
+- 2026-01-06: revise draft
