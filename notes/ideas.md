@@ -136,3 +136,4 @@
 - 2025-12-31: code cleanup
 - 2026-01-01: code cleanup
 - 2026-01-02: update reference
+- 2026-01-06: add comments
