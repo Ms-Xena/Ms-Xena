@@ -142,3 +142,4 @@
 - 2026-01-04: update reference
 - 2026-01-06: refactor logic
 - 2026-01-06: fix indent
+- 2026-01-07: revise notes
