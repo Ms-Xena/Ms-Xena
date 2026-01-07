@@ -142,3 +142,4 @@
 - 2026-01-04: tweak layout
 - 2026-01-06: revise draft
 - 2026-01-06: add notes
+- 2026-01-07: fix spacing
