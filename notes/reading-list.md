@@ -131,3 +131,4 @@
 - 2026-01-06: fix formatting
 - 2026-01-07: adjust layout
 - 2026-01-07: fix link
+- 2026-01-09: add notes
