@@ -138,3 +138,4 @@
 - 2026-01-02: update reference
 - 2026-01-06: add comments
 - 2026-01-07: quick fix
+- 2026-01-09: improve structure
