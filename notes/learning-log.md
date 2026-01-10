@@ -145,3 +145,4 @@
 - 2026-01-07: revise notes
 - 2026-01-09: add comments
 - 2026-01-09: adjust layout
+- 2026-01-10: clean up
