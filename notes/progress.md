@@ -144,3 +144,4 @@
 - 2026-01-06: add notes
 - 2026-01-07: fix spacing
 - 2026-01-09: fix indent
+- 2026-01-10: update notes
