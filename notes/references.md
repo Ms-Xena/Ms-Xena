@@ -133,3 +133,4 @@
 - 2026-01-06: improve structure
 - 2026-01-07: clean formatting
 - 2026-01-09: fix formatting
+- 2026-01-12: code cleanup
