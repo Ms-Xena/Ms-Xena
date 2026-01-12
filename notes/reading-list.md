@@ -133,3 +133,4 @@
 - 2026-01-07: fix link
 - 2026-01-09: add notes
 - 2026-01-11: update notes
+- 2026-01-12: revise section
