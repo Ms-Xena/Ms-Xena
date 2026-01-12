@@ -147,3 +147,4 @@
 - 2026-01-09: adjust layout
 - 2026-01-10: clean up
 - 2026-01-11: minor fix
+- 2026-01-12: add entry
