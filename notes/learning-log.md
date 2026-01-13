@@ -148,3 +148,4 @@
 - 2026-01-10: clean up
 - 2026-01-11: minor fix
 - 2026-01-12: add entry
+- 2026-01-13: reorganize
