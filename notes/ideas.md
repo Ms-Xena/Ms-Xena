@@ -140,3 +140,4 @@
 - 2026-01-07: quick fix
 - 2026-01-09: improve structure
 - 2026-01-10: minor fix
+- 2026-01-13: small improvement
