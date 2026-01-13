@@ -147,3 +147,4 @@
 - 2026-01-10: update notes
 - 2026-01-11: clean up
 - 2026-01-12: polish content
+- 2026-01-13: add reference
