@@ -141,3 +141,4 @@
 - 2026-01-09: improve structure
 - 2026-01-10: minor fix
 - 2026-01-13: small improvement
+- 2026-01-14: update links
