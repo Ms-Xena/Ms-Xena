@@ -142,3 +142,4 @@
 - 2026-01-10: minor fix
 - 2026-01-13: small improvement
 - 2026-01-14: update links
+- 2026-01-15: clean formatting
