@@ -150,3 +150,4 @@
 - 2026-01-12: add entry
 - 2026-01-13: reorganize
 - 2026-01-14: small improvement
+- 2026-01-17: update notes
