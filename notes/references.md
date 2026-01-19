@@ -137,3 +137,4 @@
 - 2026-01-13: update links
 - 2026-01-14: minor update
 - 2026-01-15: fix link
+- 2026-01-19: polish content
