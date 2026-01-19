@@ -151,3 +151,4 @@
 - 2026-01-14: reorganize
 - 2026-01-16: revise notes
 - 2026-01-17: improve flow
+- 2026-01-19: update docs
