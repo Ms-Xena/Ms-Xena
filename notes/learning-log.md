@@ -151,3 +151,4 @@
 - 2026-01-13: reorganize
 - 2026-01-14: small improvement
 - 2026-01-17: update notes
+- 2026-01-19: code cleanup
