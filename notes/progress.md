@@ -152,3 +152,4 @@
 - 2026-01-16: revise notes
 - 2026-01-17: improve flow
 - 2026-01-19: update docs
+- 2026-01-20: fix link
