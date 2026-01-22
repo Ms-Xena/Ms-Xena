@@ -139,3 +139,4 @@
 - 2026-01-15: fix link
 - 2026-01-19: polish content
 - 2026-01-20: fix typo
+- 2026-01-22: add reference
