@@ -154,3 +154,4 @@
 - 2026-01-19: code cleanup
 - 2026-01-20: restructure
 - 2026-01-22: fix typo
+- 2026-01-23: update docs
