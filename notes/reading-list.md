@@ -141,3 +141,4 @@
 - 2026-01-17: update reference
 - 2026-01-20: update readme
 - 2026-01-23: minor fix
+- 2026-01-26: reorganize
