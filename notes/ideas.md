@@ -146,3 +146,4 @@
 - 2026-01-19: revise section
 - 2026-01-20: update log
 - 2026-01-22: update readme
+- 2026-01-26: minor update
