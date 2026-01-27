@@ -156,3 +156,4 @@
 - 2026-01-22: fix typo
 - 2026-01-23: update docs
 - 2026-01-26: update links
+- 2026-01-27: revise draft
