@@ -144,3 +144,4 @@
 - 2026-01-26: reorganize
 - 2026-01-27: add detail
 - 2026-01-27: improve structure
+- 2026-01-28: revise notes
