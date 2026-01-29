@@ -149,3 +149,4 @@
 - 2026-01-26: minor update
 - 2026-01-27: refactor logic
 - 2026-01-28: fix link
+- 2026-01-29: update list
