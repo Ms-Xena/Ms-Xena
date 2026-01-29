@@ -145,3 +145,4 @@
 - 2026-01-27: add detail
 - 2026-01-27: improve structure
 - 2026-01-28: revise notes
+- 2026-01-29: update file
