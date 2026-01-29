@@ -158,3 +158,4 @@
 - 2026-01-26: update links
 - 2026-01-27: revise draft
 - 2026-01-28: clean formatting
+- 2026-01-29: minor update
