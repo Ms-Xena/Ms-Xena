@@ -162,3 +162,4 @@
 - 2026-01-29: tweak layout
 - 2026-01-30: update links
 - 2026-02-01: revise draft
+- 2026-02-02: fix indent
