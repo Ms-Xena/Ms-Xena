@@ -152,3 +152,4 @@
 - 2026-01-29: update list
 - 2026-01-30: update list
 - 2026-02-02: fix spacing
+- 2026-02-03: revise section
