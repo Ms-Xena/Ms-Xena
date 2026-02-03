@@ -163,3 +163,4 @@
 - 2026-01-30: update links
 - 2026-02-01: revise draft
 - 2026-02-02: fix indent
+- 2026-02-03: update docs
