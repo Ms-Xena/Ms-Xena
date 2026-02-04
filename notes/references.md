@@ -146,3 +146,4 @@
 - 2026-01-29: edit content
 - 2026-01-30: edit content
 - 2026-02-03: polish content
+- 2026-02-04: refactor logic
