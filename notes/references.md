@@ -148,3 +148,4 @@
 - 2026-02-03: polish content
 - 2026-02-04: refactor logic
 - 2026-02-05: update list
+- 2026-02-06: fix link
