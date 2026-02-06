@@ -166,3 +166,4 @@
 - 2026-02-03: update docs
 - 2026-02-04: add detail
 - 2026-02-04: improve structure
+- 2026-02-06: revise notes
