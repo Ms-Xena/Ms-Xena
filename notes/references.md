@@ -150,3 +150,4 @@
 - 2026-02-05: update list
 - 2026-02-06: fix link
 - 2026-02-09: update notes
+- 2026-02-10: fix typo
