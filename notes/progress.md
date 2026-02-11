@@ -168,3 +168,4 @@
 - 2026-02-04: improve structure
 - 2026-02-06: revise notes
 - 2026-02-10: add reference
+- 2026-02-11: fix formatting
