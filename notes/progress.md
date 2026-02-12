@@ -170,3 +170,4 @@
 - 2026-02-10: add reference
 - 2026-02-11: fix formatting
 - 2026-02-12: revise draft
+- 2026-02-12: add notes
