@@ -155,3 +155,4 @@
 - 2026-02-12: improve structure
 - 2026-02-13: update reference
 - 2026-02-14: improve structure
+- 2026-02-15: refactor logic
