@@ -162,3 +162,4 @@
 - 2026-02-12: add comments
 - 2026-02-13: tweak layout
 - 2026-02-13: minor fix
+- 2026-02-16: small improvement
