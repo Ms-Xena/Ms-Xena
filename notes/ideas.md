@@ -163,3 +163,4 @@
 - 2026-02-13: tweak layout
 - 2026-02-13: minor fix
 - 2026-02-16: small improvement
+- 2026-02-17: restructure
