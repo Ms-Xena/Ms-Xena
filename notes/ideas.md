@@ -165,3 +165,4 @@
 - 2026-02-16: small improvement
 - 2026-02-17: restructure
 - 2026-02-19: revise draft
+- 2026-02-22: add detail
