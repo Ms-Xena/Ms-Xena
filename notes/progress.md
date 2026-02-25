@@ -175,3 +175,4 @@
 - 2026-02-18: minor edit
 - 2026-02-20: code cleanup
 - 2026-02-24: clean formatting
+- 2026-02-25: add notes
