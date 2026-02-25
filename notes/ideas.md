@@ -168,3 +168,4 @@
 - 2026-02-22: add detail
 - 2026-02-24: fix spacing
 - 2026-02-24: restructure
+- 2026-02-25: adjust layout
