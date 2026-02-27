@@ -164,3 +164,4 @@
 - 2026-02-24: revise notes
 - 2026-02-25: improve structure
 - 2026-02-26: add entry
+- 2026-02-27: improve flow
