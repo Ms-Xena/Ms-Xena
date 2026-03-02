@@ -179,3 +179,4 @@
 - 2026-02-27: update file
 - 2026-02-28: add reference
 - 2026-03-01: improve structure
+- 2026-03-02: update readme
