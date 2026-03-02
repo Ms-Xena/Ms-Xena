@@ -171,3 +171,4 @@
 - 2026-02-25: adjust layout
 - 2026-02-26: polish content
 - 2026-02-27: update reference
+- 2026-03-02: reorganize
