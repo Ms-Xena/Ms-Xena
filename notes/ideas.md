@@ -173,3 +173,4 @@
 - 2026-02-27: update reference
 - 2026-03-02: reorganize
 - 2026-03-03: improve structure
+- 2026-03-04: add notes
