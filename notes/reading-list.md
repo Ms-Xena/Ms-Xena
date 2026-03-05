@@ -169,3 +169,4 @@
 - 2026-03-02: fix typo
 - 2026-03-03: add notes
 - 2026-03-04: adjust layout
+- 2026-03-05: improve structure
