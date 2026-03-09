@@ -182,3 +182,4 @@
 - 2026-03-05: add notes
 - 2026-03-06: revise draft
 - 2026-03-06: add notes
+- 2026-03-09: fix typo
