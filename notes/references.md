@@ -174,3 +174,4 @@
 - 2026-03-10: small improvement
 - 2026-03-11: update list
 - 2026-03-12: reorganize
+- 2026-03-16: refactor logic
