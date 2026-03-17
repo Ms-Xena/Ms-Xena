@@ -188,3 +188,4 @@
 - 2026-03-15: polish content
 - 2026-03-16: minor edit
 - 2026-03-17: clean formatting
+- 2026-03-17: update readme
