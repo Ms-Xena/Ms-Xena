@@ -191,3 +191,4 @@
 - 2026-03-15: revise section
 - 2026-03-16: add detail
 - 2026-03-17: quick fix
+- 2026-03-17: fix typo
