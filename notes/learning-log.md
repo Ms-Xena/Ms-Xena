@@ -190,3 +190,4 @@
 - 2026-03-17: clean formatting
 - 2026-03-17: update readme
 - 2026-03-18: update reference
+- 2026-03-18: update config
