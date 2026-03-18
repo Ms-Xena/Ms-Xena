@@ -192,3 +192,4 @@
 - 2026-03-16: add detail
 - 2026-03-17: quick fix
 - 2026-03-17: fix typo
+- 2026-03-18: tweak layout
