@@ -184,3 +184,4 @@
 - 2026-03-16: revise draft
 - 2026-03-17: fix link
 - 2026-03-18: improve flow
+- 2026-03-19: reorganize
