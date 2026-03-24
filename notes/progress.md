@@ -196,3 +196,4 @@
 - 2026-03-18: minor fix
 - 2026-03-19: update readme
 - 2026-03-20: add notes
+- 2026-03-24: refactor logic
