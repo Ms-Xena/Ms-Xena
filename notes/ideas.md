@@ -188,3 +188,4 @@
 - 2026-03-20: add comments
 - 2026-03-21: add notes
 - 2026-03-23: fix spacing
+- 2026-03-24: add detail
