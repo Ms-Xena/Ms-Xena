@@ -191,3 +191,4 @@
 - 2026-03-24: add detail
 - 2026-03-26: add entry
 - 2026-03-26: revise draft
+- 2026-03-27: clean up
