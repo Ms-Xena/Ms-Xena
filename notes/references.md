@@ -184,3 +184,4 @@
 - 2026-03-26: improve readability
 - 2026-03-27: minor fix
 - 2026-03-28: add notes
+- 2026-03-29: fix typo
