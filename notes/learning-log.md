@@ -199,3 +199,4 @@
 - 2026-03-26: minor edit
 - 2026-03-30: update list
 - 2026-03-31: update links
+- 2026-04-01: adjust layout
