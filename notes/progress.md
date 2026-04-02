@@ -203,3 +203,4 @@
 - 2026-04-01: fix indent
 - 2026-04-01: clean formatting
 - 2026-04-02: improve flow
+- 2026-04-02: update docs
