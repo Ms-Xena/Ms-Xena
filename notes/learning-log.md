@@ -201,3 +201,4 @@
 - 2026-03-31: update links
 - 2026-04-01: adjust layout
 - 2026-04-02: update notes
+- 2026-04-03: revise notes
