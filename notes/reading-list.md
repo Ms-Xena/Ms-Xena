@@ -187,3 +187,4 @@
 - 2026-03-31: edit content
 - 2026-04-01: quick fix
 - 2026-04-02: update config
+- 2026-04-03: adjust layout
