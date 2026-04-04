@@ -188,3 +188,4 @@
 - 2026-04-01: quick fix
 - 2026-04-02: update config
 - 2026-04-03: adjust layout
+- 2026-04-04: small improvement
