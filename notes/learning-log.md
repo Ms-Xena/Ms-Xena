@@ -207,3 +207,4 @@
 - 2026-04-07: fix link
 - 2026-04-08: fix link
 - 2026-04-09: fix typo
+- 2026-04-10: update notes
