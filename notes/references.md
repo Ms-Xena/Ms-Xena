@@ -190,3 +190,4 @@
 - 2026-04-02: minor fix
 - 2026-04-07: revise notes
 - 2026-04-09: fix link
+- 2026-04-10: tweak layout
