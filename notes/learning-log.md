@@ -209,3 +209,4 @@
 - 2026-04-09: fix typo
 - 2026-04-10: update notes
 - 2026-04-11: fix indent
+- 2026-04-14: update config
