@@ -212,3 +212,4 @@
 - 2026-04-10: improve flow
 - 2026-04-11: add notes
 - 2026-04-14: minor fix
+- 2026-04-16: clean formatting
