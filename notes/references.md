@@ -194,3 +194,4 @@
 - 2026-04-13: update links
 - 2026-04-14: update notes
 - 2026-04-15: update log
+- 2026-04-17: tweak layout
