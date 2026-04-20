@@ -212,3 +212,4 @@
 - 2026-04-14: update config
 - 2026-04-16: fix link
 - 2026-04-17: edit content
+- 2026-04-20: polish content
