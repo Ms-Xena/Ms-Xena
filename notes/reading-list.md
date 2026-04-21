@@ -200,3 +200,4 @@
 - 2026-04-15: fix typo
 - 2026-04-20: adjust format
 - 2026-04-21: tweak layout
+- 2026-04-21: minor fix
