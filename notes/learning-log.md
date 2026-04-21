@@ -213,3 +213,4 @@
 - 2026-04-16: fix link
 - 2026-04-17: edit content
 - 2026-04-20: polish content
+- 2026-04-21: improve flow
