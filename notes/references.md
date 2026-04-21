@@ -197,3 +197,4 @@
 - 2026-04-17: tweak layout
 - 2026-04-18: update file
 - 2026-04-20: improve readability
+- 2026-04-21: clean up
