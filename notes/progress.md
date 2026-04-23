@@ -216,3 +216,4 @@
 - 2026-04-17: update list
 - 2026-04-20: add detail
 - 2026-04-21: update reference
+- 2026-04-23: revise notes
