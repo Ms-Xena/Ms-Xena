@@ -215,3 +215,4 @@
 - 2026-04-20: polish content
 - 2026-04-21: improve flow
 - 2026-04-24: fix spacing
+- 2026-04-24: restructure
