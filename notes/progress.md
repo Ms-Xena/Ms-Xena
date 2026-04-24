@@ -217,3 +217,4 @@
 - 2026-04-20: add detail
 - 2026-04-21: update reference
 - 2026-04-23: revise notes
+- 2026-04-24: adjust layout
