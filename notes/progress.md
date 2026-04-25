@@ -219,3 +219,4 @@
 - 2026-04-23: revise notes
 - 2026-04-24: adjust layout
 - 2026-04-24: fix link
+- 2026-04-25: improve readability
