@@ -222,3 +222,4 @@
 - 2026-04-25: improve readability
 - 2026-04-27: add comments
 - 2026-04-27: adjust layout
+- 2026-04-29: add notes
