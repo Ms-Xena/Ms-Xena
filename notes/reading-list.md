@@ -209,3 +209,4 @@
 - 2026-04-29: fix formatting
 - 2026-04-30: minor fix
 - 2026-05-01: improve structure
+- 2026-05-03: small improvement
