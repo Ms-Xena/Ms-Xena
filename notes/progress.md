@@ -226,3 +226,4 @@
 - 2026-04-30: update config
 - 2026-05-01: minor edit
 - 2026-05-01: fix formatting
+- 2026-05-04: update readme
