@@ -213,3 +213,4 @@
 - 2026-04-27: fix formatting
 - 2026-04-29: adjust layout
 - 2026-05-01: refactor logic
+- 2026-05-04: reorganize
