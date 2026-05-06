@@ -223,3 +223,4 @@
 - 2026-05-01: revise draft
 - 2026-05-04: add reference
 - 2026-05-05: tweak layout
+- 2026-05-06: update docs
