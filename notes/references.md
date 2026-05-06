@@ -206,3 +206,4 @@
 - 2026-05-02: minor update
 - 2026-05-03: reorganize
 - 2026-05-05: update list
+- 2026-05-06: revise section
