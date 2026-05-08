@@ -208,3 +208,4 @@
 - 2026-05-05: update list
 - 2026-05-06: revise section
 - 2026-05-07: tweak layout
+- 2026-05-08: small improvement
