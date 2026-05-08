@@ -225,3 +225,4 @@
 - 2026-05-05: tweak layout
 - 2026-05-06: update docs
 - 2026-05-07: edit content
+- 2026-05-08: add reference
