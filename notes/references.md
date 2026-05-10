@@ -209,3 +209,4 @@
 - 2026-05-06: revise section
 - 2026-05-07: tweak layout
 - 2026-05-08: small improvement
+- 2026-05-10: clean up
