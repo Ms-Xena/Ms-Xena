@@ -215,3 +215,4 @@
 - 2026-05-07: update reference
 - 2026-05-08: fix typo
 - 2026-05-08: update links
+- 2026-05-11: add detail
