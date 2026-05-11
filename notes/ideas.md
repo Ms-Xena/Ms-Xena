@@ -218,3 +218,4 @@
 - 2026-05-07: update file
 - 2026-05-08: reorganize
 - 2026-05-10: update notes
+- 2026-05-11: refactor logic
