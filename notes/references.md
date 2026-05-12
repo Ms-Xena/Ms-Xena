@@ -211,3 +211,4 @@
 - 2026-05-08: small improvement
 - 2026-05-10: clean up
 - 2026-05-11: adjust format
+- 2026-05-12: add notes
