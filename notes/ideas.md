@@ -220,3 +220,4 @@
 - 2026-05-10: update notes
 - 2026-05-11: refactor logic
 - 2026-05-12: fix formatting
+- 2026-05-12: revise notes
