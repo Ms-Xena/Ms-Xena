@@ -228,3 +228,4 @@
 - 2026-05-08: add reference
 - 2026-05-11: revise draft
 - 2026-05-12: fix spacing
+- 2026-05-13: improve readability
