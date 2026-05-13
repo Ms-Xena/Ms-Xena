@@ -229,3 +229,4 @@
 - 2026-05-11: revise draft
 - 2026-05-12: fix spacing
 - 2026-05-13: improve readability
+- 2026-05-13: refactor logic
