@@ -213,3 +213,4 @@
 - 2026-05-11: adjust format
 - 2026-05-12: add notes
 - 2026-05-13: add detail
+- 2026-05-14: quick fix
