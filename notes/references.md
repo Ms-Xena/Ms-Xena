@@ -215,3 +215,4 @@
 - 2026-05-13: add detail
 - 2026-05-14: quick fix
 - 2026-05-15: minor update
+- 2026-05-16: code cleanup
