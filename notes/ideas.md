@@ -224,3 +224,4 @@
 - 2026-05-13: adjust format
 - 2026-05-14: revise notes
 - 2026-05-15: update links
+- 2026-05-18: code cleanup
