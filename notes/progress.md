@@ -236,3 +236,4 @@
 - 2026-05-12: adjust layout
 - 2026-05-13: revise draft
 - 2026-05-15: edit content
+- 2026-05-18: add entry
