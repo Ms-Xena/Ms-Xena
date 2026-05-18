@@ -221,3 +221,4 @@
 - 2026-05-14: clean formatting
 - 2026-05-15: update list
 - 2026-05-16: revise section
+- 2026-05-18: polish content
