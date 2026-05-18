@@ -217,3 +217,4 @@
 - 2026-05-15: minor update
 - 2026-05-16: code cleanup
 - 2026-05-17: fix indent
+- 2026-05-18: revise section
