@@ -232,3 +232,4 @@
 - 2026-05-13: refactor logic
 - 2026-05-15: small improvement
 - 2026-05-15: update file
+- 2026-05-18: improve readability
