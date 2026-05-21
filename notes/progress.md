@@ -239,3 +239,4 @@
 - 2026-05-18: add entry
 - 2026-05-19: add entry
 - 2026-05-21: improve flow
+- 2026-05-21: update docs
