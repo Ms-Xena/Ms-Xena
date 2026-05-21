@@ -220,3 +220,4 @@
 - 2026-05-18: revise section
 - 2026-05-19: revise section
 - 2026-05-20: update log
+- 2026-05-21: minor fix
