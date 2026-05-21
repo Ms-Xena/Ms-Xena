@@ -235,3 +235,4 @@
 - 2026-05-18: improve readability
 - 2026-05-19: improve readability
 - 2026-05-21: update notes
+- 2026-05-21: code cleanup
