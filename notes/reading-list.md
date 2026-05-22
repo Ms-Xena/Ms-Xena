@@ -225,3 +225,4 @@
 - 2026-05-19: polish content
 - 2026-05-20: fix typo
 - 2026-05-21: update config
+- 2026-05-22: update links
