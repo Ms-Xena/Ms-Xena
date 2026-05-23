@@ -237,3 +237,4 @@
 - 2026-05-21: update notes
 - 2026-05-21: code cleanup
 - 2026-05-22: update list
+- 2026-05-23: reorganize
