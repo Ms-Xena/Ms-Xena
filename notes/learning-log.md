@@ -239,3 +239,4 @@
 - 2026-05-22: update list
 - 2026-05-23: reorganize
 - 2026-05-26: revise section
+- 2026-05-26: add detail
