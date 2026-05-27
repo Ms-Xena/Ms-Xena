@@ -243,3 +243,4 @@
 - 2026-05-22: minor update
 - 2026-05-26: code cleanup
 - 2026-05-26: adjust format
+- 2026-05-27: small improvement
