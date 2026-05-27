@@ -230,3 +230,4 @@
 - 2026-05-22: edit content
 - 2026-05-23: small improvement
 - 2026-05-26: polish content
+- 2026-05-27: minor update
