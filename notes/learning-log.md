@@ -240,3 +240,4 @@
 - 2026-05-23: reorganize
 - 2026-05-26: revise section
 - 2026-05-26: add detail
+- 2026-05-27: update links
