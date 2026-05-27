@@ -227,3 +227,4 @@
 - 2026-05-21: update config
 - 2026-05-22: update links
 - 2026-05-26: improve readability
+- 2026-05-27: reorganize
