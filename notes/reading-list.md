@@ -229,3 +229,4 @@
 - 2026-05-26: improve readability
 - 2026-05-27: reorganize
 - 2026-05-27: edit content
+- 2026-05-28: add entry
