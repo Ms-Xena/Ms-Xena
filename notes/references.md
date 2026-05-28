@@ -224,3 +224,4 @@
 - 2026-05-22: update file
 - 2026-05-26: add entry
 - 2026-05-27: update list
+- 2026-05-28: polish content
