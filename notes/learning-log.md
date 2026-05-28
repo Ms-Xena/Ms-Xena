@@ -241,3 +241,4 @@
 - 2026-05-26: revise section
 - 2026-05-26: add detail
 - 2026-05-27: update links
+- 2026-05-28: code cleanup
