@@ -245,3 +245,4 @@
 - 2026-05-26: adjust format
 - 2026-05-27: small improvement
 - 2026-05-28: improve readability
+- 2026-05-29: update config
