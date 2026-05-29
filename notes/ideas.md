@@ -232,3 +232,4 @@
 - 2026-05-26: polish content
 - 2026-05-27: minor update
 - 2026-05-28: revise section
+- 2026-05-29: update notes
