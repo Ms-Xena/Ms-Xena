@@ -230,3 +230,4 @@
 - 2026-05-27: reorganize
 - 2026-05-27: edit content
 - 2026-05-28: add entry
+- 2026-05-29: minor fix
