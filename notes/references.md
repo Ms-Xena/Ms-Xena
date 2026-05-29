@@ -225,3 +225,4 @@
 - 2026-05-26: add entry
 - 2026-05-27: update list
 - 2026-05-28: polish content
+- 2026-05-29: clean up
