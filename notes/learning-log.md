@@ -243,3 +243,4 @@
 - 2026-05-27: update links
 - 2026-05-28: code cleanup
 - 2026-05-29: update docs
+- 2026-06-01: adjust format
