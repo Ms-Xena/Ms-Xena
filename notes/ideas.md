@@ -235,3 +235,4 @@
 - 2026-05-29: update notes
 - 2026-05-29: code cleanup
 - 2026-05-31: fix indent
+- 2026-06-01: revise section
