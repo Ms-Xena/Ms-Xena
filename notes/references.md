@@ -228,3 +228,4 @@
 - 2026-05-29: clean up
 - 2026-05-31: adjust layout
 - 2026-06-01: polish content
+- 2026-06-02: add detail
