@@ -237,3 +237,4 @@
 - 2026-05-31: fix indent
 - 2026-06-01: revise section
 - 2026-06-02: adjust format
+- 2026-06-03: update readme
