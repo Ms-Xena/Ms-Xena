@@ -229,3 +229,4 @@
 - 2026-05-31: adjust layout
 - 2026-06-01: polish content
 - 2026-06-02: add detail
+- 2026-06-03: add reference
