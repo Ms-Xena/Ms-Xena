@@ -245,3 +245,4 @@
 - 2026-05-29: update docs
 - 2026-06-01: adjust format
 - 2026-06-02: improve readability
+- 2026-06-03: fix typo
