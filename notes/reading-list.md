@@ -233,3 +233,4 @@
 - 2026-05-29: minor fix
 - 2026-06-01: add entry
 - 2026-06-02: polish content
+- 2026-06-04: refactor logic
