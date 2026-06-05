@@ -246,3 +246,4 @@
 - 2026-06-01: adjust format
 - 2026-06-02: improve readability
 - 2026-06-03: fix typo
+- 2026-06-05: code cleanup
