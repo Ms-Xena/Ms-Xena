@@ -248,3 +248,4 @@
 - 2026-05-29: update config
 - 2026-06-01: improve readability
 - 2026-06-02: add entry
+- 2026-06-05: update docs
