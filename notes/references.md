@@ -231,3 +231,4 @@
 - 2026-06-02: add detail
 - 2026-06-03: add reference
 - 2026-06-04: revise draft
+- 2026-06-05: polish content
