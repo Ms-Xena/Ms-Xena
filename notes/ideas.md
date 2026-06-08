@@ -240,3 +240,4 @@
 - 2026-06-03: update readme
 - 2026-06-04: minor edit
 - 2026-06-05: revise section
+- 2026-06-08: clean up
