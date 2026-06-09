@@ -248,3 +248,4 @@
 - 2026-06-03: fix typo
 - 2026-06-05: code cleanup
 - 2026-06-08: update notes
+- 2026-06-09: restructure
