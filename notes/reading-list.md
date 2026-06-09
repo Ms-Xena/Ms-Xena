@@ -236,3 +236,4 @@
 - 2026-06-04: refactor logic
 - 2026-06-05: add entry
 - 2026-06-06: polish content
+- 2026-06-09: clean formatting
