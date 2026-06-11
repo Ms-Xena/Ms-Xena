@@ -252,3 +252,4 @@
 - 2026-06-05: improve readability
 - 2026-06-09: fix link
 - 2026-06-10: update list
+- 2026-06-11: add entry
