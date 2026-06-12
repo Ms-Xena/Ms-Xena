@@ -251,3 +251,4 @@
 - 2026-06-09: restructure
 - 2026-06-10: edit content
 - 2026-06-11: improve readability
+- 2026-06-12: fix typo
