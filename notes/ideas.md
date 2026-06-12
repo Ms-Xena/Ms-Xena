@@ -245,3 +245,4 @@
 - 2026-06-10: small improvement
 - 2026-06-10: update file
 - 2026-06-11: adjust format
+- 2026-06-12: update readme
