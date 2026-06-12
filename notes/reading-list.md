@@ -239,3 +239,4 @@
 - 2026-06-09: clean formatting
 - 2026-06-10: minor update
 - 2026-06-11: polish content
+- 2026-06-12: reorganize
