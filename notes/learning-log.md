@@ -253,3 +253,4 @@
 - 2026-06-11: improve readability
 - 2026-06-12: fix typo
 - 2026-06-12: update links
+- 2026-06-15: fix typo
