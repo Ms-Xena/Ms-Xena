@@ -239,3 +239,4 @@
 - 2026-06-12: add reference
 - 2026-06-14: update log
 - 2026-06-15: fix link
+- 2026-06-16: improve flow
