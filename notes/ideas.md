@@ -247,3 +247,4 @@
 - 2026-06-11: adjust format
 - 2026-06-12: update readme
 - 2026-06-14: restructure
+- 2026-06-16: update reference
