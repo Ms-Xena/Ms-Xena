@@ -248,3 +248,4 @@
 - 2026-06-12: update readme
 - 2026-06-14: restructure
 - 2026-06-16: update reference
+- 2026-06-18: improve flow
