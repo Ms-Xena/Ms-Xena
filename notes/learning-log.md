@@ -257,3 +257,4 @@
 - 2026-06-16: tweak layout
 - 2026-06-18: update reference
 - 2026-06-19: adjust format
+- 2026-06-19: add comments
