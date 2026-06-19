@@ -257,3 +257,4 @@
 - 2026-06-15: update log
 - 2026-06-18: tweak layout
 - 2026-06-18: minor fix
+- 2026-06-19: improve readability
