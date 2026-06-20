@@ -250,3 +250,4 @@
 - 2026-06-16: update reference
 - 2026-06-18: improve flow
 - 2026-06-19: add detail
+- 2026-06-20: quick fix
