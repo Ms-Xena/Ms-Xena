@@ -242,3 +242,4 @@
 - 2026-06-16: improve flow
 - 2026-06-18: update notes
 - 2026-06-19: minor edit
+- 2026-06-22: add reference
