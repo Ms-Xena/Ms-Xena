@@ -80,10 +80,10 @@ Right now I am deep into agentic AI architectures, medical imaging pipelines, an
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> tech_stack --verbose`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,gcp,azure,kotlin&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,gcp,azure,kotlin,java,cpp&theme=dark&perline=10" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,r,html,mysql,mongodb,neo4j,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=r,html,mysql,mongodb,neo4j,git,vscode,linux,github,androidstudio&theme=dark&perline=10" />
 </p>
 
 <br>
