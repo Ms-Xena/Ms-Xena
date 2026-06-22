@@ -282,8 +282,50 @@ I do not build projects to fill a portfolio. I build them because I see a gap â€
 
 <br>
 
+<table>
+<tr>
+<td align="center" width="25%">
+<br>
+<img src="https://img.shields.io/badge/2,348-00ff88?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br>
+<sub><b>Total Contributions</b></sub>
+<br>
+<sub>Jun 2025 - Present</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://img.shields.io/badge/24-00ff88?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br>
+<sub><b>Current Streak</b></sub>
+<br>
+<sub>May 30 - Jun 22</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://img.shields.io/badge/47-b565f7?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br>
+<sub><b>Longest Streak</b></sub>
+<br>
+<sub>Jan 3 - Feb 18</sub>
+<br><br>
+</td>
+<td align="center" width="25%">
+<br>
+<img src="https://img.shields.io/badge/326-00ff88?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<br>
+<sub><b>Active Days</b></sub>
+<br>
+<sub>88% uptime</sub>
+<br><br>
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Shah&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=b565f7&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Shah&layout=compact&langs_count=10&hide_border=true&theme=github_dark&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
 
