@@ -251,3 +251,4 @@
 - 2026-06-18: improve flow
 - 2026-06-19: add detail
 - 2026-06-20: quick fix
+- 2026-06-22: update readme
