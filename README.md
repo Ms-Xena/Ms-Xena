@@ -12,16 +12,13 @@
   <a href="mailto:shahyusra05@gmail.com?subject=Hello%20Yusra&body=Hi%20Yusra%2C%0A%0A"><img src="https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2e1a,60:1a0a2e,100:0d1117&height=80&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+ssh+yusra%40dev;Connected.;Welcome+back%2C+Yusra." alt="SSH connect" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1500&pause=600&color=555555&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Last+login%3A+Sun+Jun+22+09%3A14+from+192.168.1.42" alt="Last login" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=800&pause=300&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F" alt="Pac-Man" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:0a2e1a,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -57,13 +54,23 @@ I started with data analytics, moved into machine learning, and found my place b
 
 Right now I am deep into agentic AI architectures, medical imaging pipelines, and knowledge graph systems. I build with Python, deploy on Google Cloud, and think carefully about guardrails, PII redaction, and human-in-the-loop design in everything I put into production.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%5B+LOADING+TECH+STACK+%5D;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;READY." alt="Loading" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00ff88&text=THE%20MATRIX%20HAS%20YOU&height=100&fontSize=30&fontAlignY=50&animation=twinkling&desc=follow%20the%20green%20code&descSize=14&descColor=0a2e1a&descAlignY=75" width="100%" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=400&pause=100&color=0a4a2a&center=true&vCenter=true&repeat=true&width=700&height=25&lines=%E3%83%8D%E3%82%B3+%E3%83%90+%E3%83%84+01+%E3%83%8A+10+%E3%82%AD+11+%E3%83%A0+00+%E3%82%B3+01+%E3%83%8B+10+%E3%83%AF+11+%E3%82%AB+01+%E3%83%9E+10;01+%E3%83%84+10+%E3%82%AD+%E3%83%8D+11+%E3%82%B3+00+%E3%83%8B+01+%E3%83%AF+10+%E3%82%AB+11+%E3%83%9E+00+%E3%83%A0+01+%E3%83%8A+10+%E3%83%90" alt="Matrix" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=500&pause=100&color=00ff88&center=true&vCenter=true&repeat=true&width=700&height=25&lines=10+%E3%82%B3+01+%E3%83%8D+%E3%82%AD+00+%E3%83%84+11+%E3%83%8A+01+%E3%83%90+10+%E3%83%A0+00+%E3%83%AF+11+%E3%82%AB+01+%E3%83%9E;%E3%83%8B+00+%E3%83%AF+11+%E3%82%AB+01+%E3%83%9E+10+%E3%82%AD+00+%E3%83%84+11+%E3%83%8D+01+%E3%82%B3+10+%E3%83%8A+00+%E3%83%90" alt="Matrix2" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=11&duration=350&pause=100&color=0a4a2a&center=true&vCenter=true&repeat=true&width=700&height=25&lines=%E3%82%AB+11+%E3%83%9E+00+%E3%83%A0+01+%E3%83%8A+10+%E3%83%90+00+%E3%83%84+11+%E3%83%8D+01+%E3%82%B3+10+%E3%82%AD+00+%E3%83%8B;00+%E3%83%84+11+%E3%83%8D+%E3%82%B3+01+%E3%82%AD+10+%E3%83%8B+00+%E3%83%AF+11+%E3%82%AB+01+%E3%83%9E+10+%E3%83%A0+00+%E3%83%8A" alt="Matrix3" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -104,13 +111,27 @@ Right now I am deep into agentic AI architectures, medical imaging pipelines, an
 
 I pick tools based on what the problem needs, not what is trending. PyTorch for anything that needs custom model control. Google ADK and LangGraph when orchestration complexity demands a graph-based agent framework. FastAPI when I need a backend that ships today. Cloud Run when I want zero-ops deployment. Neo4j when relationships matter more than rows.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=footer" />
+
+```
+     ┌──────────────────────────────────────────────────────────────┐
+     │                                                              │
+     │    ╔══╗  ┌──┐  ╔══╗  ┌──┐  ╔══╗  ┌──┐  ╔══╗  ┌──┐  ╔══╗   │
+     │    ║██║──┤░░├──║██║──┤░░├──║██║──┤░░├──║██║──┤░░├──║██║   │
+     │    ╚══╝  └──┘  ╚══╝  └──┘  ╚══╝  └──┘  ╚══╝  └──┘  ╚══╝   │
+     │      │    │      │    │      │    │      │    │      │       │
+     │    ┌─┴──┐ │   ┌──┴─┐  │   ┌─┴──┐ │   ┌──┴─┐  │   ┌─┴──┐   │
+     │    │ AI │─┘   │ ML │──┘   │ NLP│─┘   │ CV │──┘   │ AGI│   │
+     │    └────┘     └────┘      └────┘     └────┘      └────┘   │
+     │                  C I R C U I T   B O A R D                  │
+     └──────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=800&color=b565f7&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++yusra%40cloud+~+%24+cat+status.log++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=600&pause=200&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80;%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80%E2%94%80%E2%97%8B%E2%94%80%E2%94%80%E2%94%80%E2%97%8F%E2%94%80%E2%94%80" alt="Circuit pulse" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -139,16 +160,32 @@ STATUS REPORT — June 2026
 
 I believe the best AI engineers are not just model builders — they are system designers. An agent that hallucinates costs more than one that says "I don't know." A pipeline without guardrails is a liability, not a feature. I think about failure modes before I think about demos.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=footer" />
+
+```
+    ╔═══════════════════════════════════════════════════════════════════╗
+    ║                                                                   ║
+    ║   ██  PLAYER 1          SCORE: 9 PROJECTS        LIVES: ♥ ♥ ♥   ║
+    ║                                                                   ║
+    ║   LEVEL 01 ████████░░ Pneumo-Scan ............... COMPLETE       ║
+    ║   LEVEL 02 ████████░░ ElderBridge ............... SUBMITTED      ║
+    ║   LEVEL 03 ██████████ SmartApply ................ LIVE           ║
+    ║   LEVEL 04 ██████░░░░ Nexus Drift .............. IN PROGRESS    ║
+    ║   LEVEL 05 ██████████ MediGuide AI ............. LIVE           ║
+    ║   LEVEL 06 ██████████ Matcha Journal ........... LIVE           ║
+    ║   LEVEL 07 ████████░░ Maze Adventure ........... COMPLETE       ║
+    ║   LEVEL 08 ████████░░ Learning Mgmt System ..... COMPLETE       ║
+    ║   LEVEL 09 ████████░░ Word Guessing Game ....... COMPLETE       ║
+    ║                                                                   ║
+    ║   INSERT COIN TO CONTINUE ...                                    ║
+    ╚═══════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%3E_+9+projects.+3+live.+0+excuses." alt="Projects intro" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2000&pause=600&color=555555&center=true&vCenter=true&repeat=true&width=700&height=40&lines=pip+install+pneumo-scan+smartapply+mediguide+matcha-journal;Successfully+installed+9+packages+in+1.2s;All+systems+operational." alt="pip install" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=500&color=00FF88&center=true&vCenter=true&repeat=true&width=500&height=40&lines=PRESS+START;LOADING+PROJECTS...;READY+PLAYER+ONE" alt="Retro game" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -281,13 +318,21 @@ Command-line vocabulary game built in C++. Clean logic, no frameworks, just algo
 
 I do not build projects to fill a portfolio. I build them because I see a gap — a workflow that could be automated, a diagnosis that should be explainable, a user group that technology forgot about. The project list is a side effect of caring about the right problems.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2e1a,70:1a0a2e,100:0d1117&height=100&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=800&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%90%8D+SNAKE+MODE+ACTIVATED;CONSUMING+CONTRIBUTIONS...;NOM+NOM+NOM+NOM+NOM" alt="Snake mode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=600&pause=200&color=00ff88&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%88+SNAKE+MODE+ACTIVATED+%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91;%E2%96%93%E2%96%88%E2%96%88+CONSUMING+CONTRIBUTIONS+%E2%96%88%E2%96%88%E2%96%93;%E2%96%88%E2%96%88%E2%96%88+NOM+NOM+NOM+NOM+NOM+%E2%96%88%E2%96%88%E2%96%88" alt="Snake mode" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+```
+                        ╭──────╮
+                        │ ◉  ◉ │
+    ████████████████████│  ◡◡  │█████████████████████████████████
+    █ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ╰──────╯ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ ◆ █
+    ██████████████████████████████████████████████████████████████
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:0a2e1a,100:0d1117&height=100&section=header" />
 
 <br>
 
@@ -301,13 +346,26 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
   </picture>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=footer" />
+
+```
+    ┌──────────────────────────────────────────────────────────────┐
+    │  $ git log --oneline | wc -l                                 │
+    │  2348                                                        │
+    │                                                              │
+    │  $ git shortlog -sn | head -1                                │
+    │  2348  Yusra Shah                                            │
+    │                                                              │
+    │  $ echo "status"                                             │
+    │  OPERATIONAL — all systems green                             │
+    └──────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+git+log+--oneline+%7C+wc+-l;++2348;%24+echo+%22that's+a+lot+of+commits%22" alt="Git stats intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=1200&pause=500&color=00ff88&center=true&vCenter=true&repeat=true&width=500&height=30&lines=ANALYZING+CONTRIBUTIONS...;RENDERING+GRAPHS...;DATA+VISUALIZATION+READY" alt="Stats" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -358,16 +416,33 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Shah&bg_color=0d1117&color=00ff88&line=b565f7&point=00ff88&area=true&area_color=b565f7&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=1000&color=b565f7&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%5B+ACHIEVEMENT+UNLOCKED+%5D;%5B+LOADING+RECOGNITION+DATA+%5D;%5B+ACCESS+GRANTED+%5D" alt="Achievement" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1500&pause=500&color=555555&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+10%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91+45%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91+78%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+DONE" alt="Loading bar" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b565f7&text=%E2%9C%A6%20ACHIEVEMENT%20UNLOCKED%20%E2%9C%A6&height=80&fontSize=28&fontAlignY=50&animation=twinkling&desc=%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85&descSize=20&descColor=00ff88&descAlignY=80" width="100%" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+```
+    ┌─ RECOGNITION MATRIX ───────────────────────────────────────────┐
+    │                                                                │
+    │    [Google]──►[Harvard]──►[USAII]──►[MLH]──►[McKinsey]        │
+    │       │          │          │        │          │               │
+    │       ▼          ▼          ▼        ▼          ▼               │
+    │    ┌─────┐   ┌─────┐   ┌─────┐  ┌─────┐   ┌─────┐            │
+    │    │ ███ │   │ ███ │   │ ███ │  │ ███ │   │ ███ │            │
+    │    │ ███ │   │ ███ │   │ ███ │  │ ███ │   │ ███ │            │
+    │    └──┬──┘   └──┬──┘   └──┬──┘  └──┬──┘   └──┬──┘            │
+    │       └──────────┴─────────┴────────┴─────────┘                │
+    │                         │                                      │
+    │                    [ YUSRA ]                                   │
+    └────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1000&pause=400&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+10%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91+45%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91+78%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+LOADED" alt="Loading" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -553,13 +628,24 @@ Served on the organizing team for SIBAthon'26 — the university's flagship hack
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=footer" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+gpg+--verify+certifications.json;gpg%3A+Good+signature+from+%22Yusra+Batool%22;gpg%3A+All+7+credentials+VERIFIED" alt="GPG verify" />
-</p>
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║  $ gpg --verify certifications.json                       ║
+    ║                                                           ║
+    ║  gpg: Signature made 2026-06-22T09:00:00                  ║
+    ║  gpg: using RSA key YUSRA-BATOOL-ML-2026                  ║
+    ║  gpg: Good signature from "Yusra Batool" [ultimate]       ║
+    ║                                                           ║
+    ║  ✓ Google Cloud    ✓ IBM           ✓ McKinsey             ║
+    ║  ✓ Google          ✓ HackerRank    ✓ HackerRank           ║
+    ║                                                           ║
+    ║  STATUS: ALL 7 CREDENTIALS VERIFIED                       ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -624,13 +710,28 @@ Served on the organizing team for SIBAthon'26 — the university's flagship hack
 
 Additional completed work: Deloitte Data Analytics Job Simulation, AWS Aurora MySQL Basics, Microsoft AI Skills Fest, Google Arcade Facilitator Program.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=footer" />
+
+```
+           ╭────────────────────────────────────────────╮
+           │         ┌─────────┐                        │
+           │         │ ◉     ◉ │    "CURRENTLY          │
+           │    ┌────┤  ╰───╯  ├────┐                   │
+           │    │    └─────────┘    │  DOWNLOADING       │
+           │    │   ┌───────────┐   │                   │
+           │    │   │ ░░░░░░░░░ │   │  NEW SKILLS..."   │
+           │    │   │ ░ BRAIN ░ │   │                   │
+           │    │   │ ░░░░░░░░░ │   │                   │
+           │    │   └───────────┘   │                   │
+           │    └───────────────────┘                   │
+           ╰────────────────────────────────────────────╯
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=b565f7&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+tail+-f+%2Fvar%2Flog%2Flearning.log;%5BINFO%5D+New+knowledge+detected...;%5BINFO%5D+Integrating+into+projects..." alt="Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=1000&pause=500&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=30&lines=DOWNLOADING...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%91%E2%96%91%E2%96%91%E2%96%91+58%25;INSTALLING...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%91%E2%96%91+82%25;COMPLETE.+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25" alt="Download" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -657,13 +758,22 @@ Additional completed work: Deloitte Data Analytics Job Simulation, AWS Aurora My
 
 I treat learning the same way I treat engineering — systematically, with clear intent, and always tied to something I am building. Courses are inputs. Shipped projects are outputs. The ratio matters.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=footer" />
+
+```
+                  ██╗   ██╗██╗   ██╗███████╗██████╗  █████╗
+                  ╚██╗ ██╔╝██║   ██║██╔════╝██╔══██╗██╔══██╗
+                   ╚████╔╝ ██║   ██║███████╗██████╔╝███████║
+                    ╚██╔╝  ██║   ██║╚════██║██╔══██╗██╔══██║
+                     ██║   ╚██████╔╝███████║██║  ██║██║  ██║
+                     ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%24+neofetch;Fetching+system+info...;Done.+Welcome+back." alt="Neofetch" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=800&pause=300&color=00ff88&center=true&vCenter=true&repeat=true&width=400&height=25&lines=%E2%96%91%E2%96%92%E2%96%93%E2%96%88+SYSTEM+ONLINE+%E2%96%88%E2%96%93%E2%96%92%E2%96%91;%E2%96%93%E2%96%88%E2%96%88+ALL+CLEAR+%E2%96%88%E2%96%88%E2%96%93;%E2%96%88%E2%96%88%E2%96%88+OPERATIONAL+%E2%96%88%E2%96%88%E2%96%88" alt="System" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2e1a,100:0d1117&height=80&section=header" />
 
 <br>
 
@@ -688,13 +798,24 @@ Resolution: Build AI that is useful, explainable, and safe
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Dev Quote" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2e1a,60:1a0a2e,100:0d1117&height=100&section=footer" />
+
+```
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+      ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+      ~  ~  ~  ~ T H A N K S  F O R  V I S I T I N G ~  ~  ~
+    ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+      ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1500&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+exit;logout;Connection+to+yusra%40dev+closed.;See+you+in+the+next+commit." alt="Exit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=2000&pause=1000&color=b565f7&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%24+exit;logout;Connection+to+yusra%40dev+closed.;See+you+in+the+next+commit." alt="Exit" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:0a2e1a,100:0d1117&height=100&section=header" />
 
 <br>
 
