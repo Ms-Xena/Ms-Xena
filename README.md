@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yusra-batool-ml"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
   <a href="https://yusra-shah.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=b565f7" /></a>
-  <a href="mailto:shahyusra05@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
+  <a href="mailto:shahyusra05@gmail.com?subject=Hello%20Yusra&body=Hi%20Yusra%2C%0A%0A"><img src="https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -52,7 +52,7 @@ Right now I am deep into agentic AI architectures, medical imaging pipelines, an
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;`> tech_stack --verbose`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> tech_stack --verbose`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,docker,gcp,azure,kotlin&theme=dark&perline=8" />
@@ -93,7 +93,7 @@ I pick tools based on what the problem needs, not what is trending. PyTorch for 
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`> cat current_focus.md`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> cat current_focus.md`
 
 ```
 STATUS REPORT â€” June 2026
@@ -122,7 +122,7 @@ I believe the best AI engineers are not just model builders â€” they are system 
 
 <br>
 
-## <img src="https://media.giphy.com/media/juua9i2c4fWUM/giphy.gif" width="30"> &nbsp;`> ls ./projects --featured`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> ls ./projects --featured`
 
 <br>
 
@@ -255,7 +255,7 @@ I do not build projects to fill a portfolio. I build them because I see a gap â€
 
 <br>
 
-## <img src="https://media.giphy.com/media/SS8CV2LLhJeyTalMKK/giphy.gif" width="30"> &nbsp;`> watch contributions --snake`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> watch contributions --snake`
 
 <p align="center">
   <picture>
@@ -269,7 +269,7 @@ I do not build projects to fill a portfolio. I build them because I see a gap â€
 
 <br>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ry4/giphy.gif" width="30"> &nbsp;`> git stats --all`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> git stats --all`
 
 <br>
 
@@ -283,12 +283,8 @@ I do not build projects to fill a portfolio. I build them because I see a gap â€
 <br>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yusra-Shah&show_icons=true&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&theme=github_dark&title_color=00ff88&icon_color=b565f7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yusra-Shah&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff88&fire=b565f7&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Shah&layout=compact&langs_count=10&hide_border=true&theme=github_dark&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusra-Shah&layout=compact&langs_count=10&hide_border=true&theme=github_dark&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <br>
@@ -301,7 +297,7 @@ I do not build projects to fill a portfolio. I build them because I see a gap â€
 
 <br>
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> &nbsp;`> cat achievements.log`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> cat achievements.log`
 
 <br>
 
@@ -392,7 +388,7 @@ I do not chase credentials â€” but when programs align with what I am already bu
 
 <br>
 
-## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> &nbsp;`> cat certifications.json`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> cat certifications.json`
 
 <br>
 
@@ -457,7 +453,7 @@ Additional completed work: Deloitte Data Analytics Job Simulation, AWS Aurora My
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp;`> tail -f learning.log`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> tail -f learning.log`
 
 <br>
 
@@ -484,7 +480,7 @@ I treat learning the same way I treat engineering â€” systematically, with clear
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> &nbsp;`> neofetch --minimal`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> neofetch --minimal`
 
 <br>
 
