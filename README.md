@@ -307,79 +307,174 @@ I do not chase credentials — but when programs align with what I am already bu
 
 <table>
 <tr>
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00ff88" />
-<br><br>
-<b>Google Cloud<br>Builder Stories</b>
-<br><br>
-<sub>Featured for SmartApply<br>and multi-agent AI work</sub>
-<br><br>
-</td>
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=google&logoColor=b565f7" />
-<br><br>
-<b>Google Cloud<br>Gen AI Academy</b>
-<br><br>
-<sub>APAC Cohort 1<br>Build and Deploy AI Agents</sub>
-<br><br>
-</td>
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88" />
-<br><br>
-<b>USAII Global AI<br>Hackathon 2026</b>
-<br><br>
-<sub>Top 75 of 424 teams<br>ElderBridge GuardianOS</sub>
-<br><br>
-</td>
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=harvard&logoColor=b565f7" />
-<br><br>
-<b>Harvard Aspire<br>Leaders Program</b>
-<br><br>
-<sub>Selected participant<br>Top global applicant pool</sub>
-<br><br>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=googlecloud&logoColor=00ff88" /> &nbsp; Google Cloud Builder Stories
+
+<img src="https://img.shields.io/badge/FEATURED-00ff88?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/2026-0d1117?style=flat-square&labelColor=0d1117&color=555555" /> <img src="https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=00ff88" />
+
+Selected by Google Cloud to be featured in their Builder Stories program for demonstrating production-grade multi-agent AI deployment. SmartApply was highlighted as an example of how agentic AI systems can be built and shipped using Google Cloud infrastructure — from Firestore for persistent memory to Cloud Run for zero-ops deployment.
+
+<img src="https://img.shields.io/badge/Google_ADK-0d1117?style=flat-square&logo=google&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Cloud_Run-0d1117?style=flat-square&logo=googlecloud&logoColor=b565f7" /> <img src="https://img.shields.io/badge/Firestore-0d1117?style=flat-square&logo=firebase&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=b565f7" /> <img src="https://img.shields.io/badge/FastMCP-0d1117?style=flat-square&logo=chainlink&logoColor=00ff88" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=400&height=20&lines=%24+gcloud+run+deploy+smart-apply+--region+europe-west1" alt="deploy" />
+
 </td>
 </tr>
+</table>
+
+<br>
+
+<table>
 <tr>
-<td align="center" width="170">
-<br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=majorleaguehacking&logoColor=00ff88" />
-<br><br>
-<b>MLH AI<br>Hackfest 2026</b>
-<br><br>
-<sub>Built and deployed<br>Matcha Journal solo in 24h</sub>
-<br><br>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=google&logoColor=b565f7" /> &nbsp; Google Cloud Gen AI Academy APAC
+
+<img src="https://img.shields.io/badge/COMPLETED-b565f7?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Cohort_1-0d1117?style=flat-square&labelColor=0d1117&color=555555" /> <img src="https://img.shields.io/badge/APAC_Region-0d1117?style=flat-square&logo=google&logoColor=b565f7" />
+
+First cohort of Google Cloud's Generative AI Academy for the APAC region. Track 1: Build and Deploy AI Agents. Covered agent design patterns, tool integration, memory architectures, and production deployment on Google Cloud. Applied learnings directly to SmartApply and MediGuide AI.
+
+<img src="https://img.shields.io/badge/Vertex_AI-0d1117?style=flat-square&logo=googlecloud&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Agent_Builder-0d1117?style=flat-square&logo=google&logoColor=b565f7" /> <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Cloud_Functions-0d1117?style=flat-square&logo=googlecloud&logoColor=b565f7" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=b565f7&vCenter=true&repeat=true&width=400&height=20&lines=%24+agent.deploy(track%3D'build_and_deploy_ai_agents')" alt="agent" />
+
 </td>
-<td align="center" width="170">
+</tr>
+</table>
+
 <br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=mckinsey&logoColor=b565f7" />
-<br><br>
-<b>McKinsey<br>Forward Program</b>
-<br><br>
-<sub>Professional skills and<br>problem-solving curriculum</sub>
-<br><br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88" /> &nbsp; USAII Global AI Hackathon 2026
+
+<img src="https://img.shields.io/badge/TOP_75-00ff88?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/of_424_teams-0d1117?style=flat-square&labelColor=0d1117&color=555555" /> <img src="https://img.shields.io/badge/7_Day_Build-0d1117?style=flat-square&logo=clockify&logoColor=00ff88" />
+
+Built ElderBridge GuardianOS from scratch in 7 days — a multi-agent AI safety assistant designed for elderly Pakistani users. The system runs as an Android overlay using AccessibilityService, intercepts potential scam calls and messages, and routes them through a FastAPI backend connected to LangGraph agents powered by Azure OpenAI. Placed in the top 75 out of 424 teams globally in the qualifier round.
+
+<img src="https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Jetpack_Compose-0d1117?style=flat-square&logo=jetpackcompose&logoColor=b565f7" /> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff88" /> <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=chainlink&logoColor=b565f7" /> <img src="https://img.shields.io/badge/Azure_OpenAI-0d1117?style=flat-square&logo=microsoftazure&logoColor=00ff88" /> <img src="https://img.shields.io/badge/AccessibilityService-0d1117?style=flat-square&logo=android&logoColor=b565f7" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=500&height=20&lines=%24+guardianOS.protect(user%3D'elderly'%2C+threat%3D'scam_detection')" alt="guardian" />
+
 </td>
-<td align="center" width="170">
+</tr>
+</table>
+
 <br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=government&logoColor=00ff88" />
-<br><br>
-<b>PM Youth<br>Laptop Scheme</b>
-<br><br>
-<sub>Awardee</sub>
-<br><br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=harvard&logoColor=b565f7" /> &nbsp; Harvard Aspire Leaders Program
+
+<img src="https://img.shields.io/badge/SELECTED-b565f7?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Global_Pool-0d1117?style=flat-square&labelColor=0d1117&color=555555" /> <img src="https://img.shields.io/badge/Harvard_University-0d1117?style=flat-square&logo=harvard&logoColor=b565f7" />
+
+Selected as a participant from a highly competitive global applicant pool. The Aspire Leaders Program develops emerging leaders through Harvard-designed curriculum focused on leadership development, community impact, and personal growth. Applied leadership frameworks directly to organizing SIBAthon'26 and leading project teams.
+
+<img src="https://img.shields.io/badge/Leadership-0d1117?style=flat-square&logoColor=00ff88&color=0d1117" /> <img src="https://img.shields.io/badge/Community_Impact-0d1117?style=flat-square&logoColor=b565f7&color=0d1117" /> <img src="https://img.shields.io/badge/Global_Network-0d1117?style=flat-square&logoColor=00ff88&color=0d1117" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=b565f7&vCenter=true&repeat=true&width=400&height=20&lines=%24+aspire.lead(impact%3D'community'%2C+scope%3D'global')" alt="aspire" />
+
 </td>
-<td align="center" width="170">
+</tr>
+</table>
+
 <br>
-<img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=semanticscholar&logoColor=b565f7" />
-<br><br>
-<b>AI and CS<br>Expo 2024</b>
-<br><br>
-<sub>Certificate of Recognition<br>Maze Adventure</sub>
-<br><br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=majorleaguehacking&logoColor=00ff88" /> &nbsp; MLH AI Hackfest 2026
+
+<img src="https://img.shields.io/badge/SHIPPED-00ff88?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Solo_Build-0d1117?style=flat-square&labelColor=0d1117&color=555555" /> <img src="https://img.shields.io/badge/Under_24_Hours-0d1117?style=flat-square&logo=clockify&logoColor=00ff88" />
+
+Built and deployed Matcha Journal completely solo in under 24 hours — an AI-powered journaling companion that uses Groq-hosted LLaMA 3.3 for real-time conversational journaling with mood tracking and reflection prompts. Went from zero to live deployment on Streamlit Cloud within the hackathon window. Proof that the right architecture choices make speed possible without sacrificing quality.
+
+<img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&logo=lightning&logoColor=b565f7" /> <img src="https://img.shields.io/badge/LLaMA_3.3-0d1117?style=flat-square&logo=meta&logoColor=00ff88" /> <img src="https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=flat-square&logo=mongodb&logoColor=b565f7" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=500&height=20&lines=%24+streamlit+run+matcha_journal.py+--server.port+8501" alt="matcha" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=mckinsey&logoColor=b565f7" /> &nbsp; McKinsey Forward Program
+
+<img src="https://img.shields.io/badge/COMPLETED-b565f7?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/McKinsey_&_Company-0d1117?style=flat-square&logo=mckinsey&logoColor=b565f7" />
+
+Completed McKinsey's Forward program — a professional development curriculum covering structured problem-solving, adaptive communication, and leadership in complex environments. Applied these frameworks to how I scope projects, communicate technical decisions, and break down ambiguous problems into actionable engineering plans.
+
+<img src="https://img.shields.io/badge/Problem_Solving-0d1117?style=flat-square&color=0d1117" /> <img src="https://img.shields.io/badge/Communication-0d1117?style=flat-square&color=0d1117" /> <img src="https://img.shields.io/badge/Leadership-0d1117?style=flat-square&color=0d1117" /> <img src="https://img.shields.io/badge/Strategy-0d1117?style=flat-square&color=0d1117" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=b565f7&vCenter=true&repeat=true&width=400&height=20&lines=%24+solve(problem%2C+method%3D'structured'%2C+verify%3DTrue)" alt="mckinsey" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=government&logoColor=00ff88" /> &nbsp; PM Youth Laptop Scheme
+
+<img src="https://img.shields.io/badge/AWARDEE-00ff88?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Government_of_Pakistan-0d1117?style=flat-square&labelColor=0d1117&color=555555" />
+
+Awarded under the Prime Minister's Youth Laptop Scheme — a merit-based national program for high-performing students in Pakistani universities. The laptop I received on this program is the same machine I used to build my first AI projects, deploy my first cloud applications, and write every line of code that got me to where I am today.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=500&height=20&lines=%24+echo+'from+a+government+laptop+to+google+cloud+builder'" alt="laptop" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=semanticscholar&logoColor=b565f7" /> &nbsp; AI and CS Expo 2024
+
+<img src="https://img.shields.io/badge/RECOGNIZED-b565f7?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Certificate_of_Recognition-0d1117?style=flat-square&labelColor=0d1117&color=555555" /> <img src="https://img.shields.io/badge/Sukkur_IBA_University-0d1117?style=flat-square&logoColor=b565f7" />
+
+Received Certificate of Recognition at the AI and Computer Science Expo 2024 for Maze Adventure — a Java Swing application implementing real-time graph traversal visualization with BFS, DFS, and Dijkstra pathfinding algorithms. One of my earliest projects that proved to me that clean algorithm implementation and good UI design are not mutually exclusive.
+
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Swing-0d1117?style=flat-square&logo=java&logoColor=b565f7" /> <img src="https://img.shields.io/badge/BFS-0d1117?style=flat-square&color=0d1117" /> <img src="https://img.shields.io/badge/DFS-0d1117?style=flat-square&color=0d1117" /> <img src="https://img.shields.io/badge/Dijkstra-0d1117?style=flat-square&color=0d1117" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=b565f7&vCenter=true&repeat=true&width=500&height=20&lines=%24+maze.solve(algorithm%3D'dijkstra'%2C+visualize%3DTrue)" alt="maze" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+### <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff88" /> &nbsp; SIBAthon'26
+
+<img src="https://img.shields.io/badge/ORGANIZING_TEAM-00ff88?style=flat-square&labelColor=0d1117" /> <img src="https://img.shields.io/badge/Sukkur_IBA_University-0d1117?style=flat-square&labelColor=0d1117&color=555555" />
+
+Served on the organizing team for SIBAthon'26 — the university's flagship hackathon event. Coordinated logistics, mentored participating teams on AI and cloud deployment strategies, and helped design challenge tracks. Building things is one skill. Helping others build things is another.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=500&height=20&lines=%24+hackathon.organize(role%3D'team_member'%2C+mentor%3DTrue)" alt="sibathon" />
+
 </td>
 </tr>
 </table>
