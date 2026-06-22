@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/yusra-batool-ml"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88" /></a>
   <a href="https://yusra-shah.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=b565f7" /></a>
-  <a href="mailto:shahyusra05@gmail.com?subject=Hello%20Yusra&body=Hi%20Yusra%2C%0A%0A"><img src="https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=shahyusra05@gmail.com&su=Hello+Yusra"><img src="https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2e1a,60:1a0a2e,100:0d1117&height=80&section=footer" />
@@ -30,7 +30,7 @@
 ```python
 class YusraBatool:
     def __init__(self):
-        self.role       = "ML Engineer in Training"
+        self.role       = "ML Engineer"
         self.university = "CS @ Sukkur IBA University '28"
         self.location   = "Pakistan"
         self.focus = [
