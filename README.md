@@ -12,7 +12,16 @@
   <a href="mailto:shahyusra05@gmail.com?subject=Hello%20Yusra&body=Hi%20Yusra%2C%0A%0A"><img src="https://img.shields.io/badge/Contact_Me-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+ssh+yusra%40dev;Connected.;Welcome+back%2C+Yusra." alt="SSH connect" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1500&pause=600&color=555555&center=true&vCenter=true&repeat=true&width=450&height=30&lines=Last+login%3A+Sun+Jun+22+09%3A14+from+192.168.1.42" alt="Last login" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
 
 <br>
 
@@ -48,7 +57,13 @@ I started with data analytics, moved into machine learning, and found my place b
 
 Right now I am deep into agentic AI architectures, medical imaging pipelines, and knowledge graph systems. I build with Python, deploy on Google Cloud, and think carefully about guardrails, PII redaction, and human-in-the-loop design in everything I put into production.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%5B+LOADING+TECH+STACK+%5D;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;READY." alt="Loading" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
 
 <br>
 
@@ -89,7 +104,13 @@ Right now I am deep into agentic AI architectures, medical imaging pipelines, an
 
 I pick tools based on what the problem needs, not what is trending. PyTorch for anything that needs custom model control. Google ADK and LangGraph when orchestration complexity demands a graph-based agent framework. FastAPI when I need a backend that ships today. Cloud Run when I want zero-ops deployment. Neo4j when relationships matter more than rows.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=800&color=b565f7&center=true&vCenter=true&repeat=true&width=700&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%90;%E2%94%82++yusra%40cloud+~+%24+cat+status.log++%E2%94%82;%E2%94%94%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%98" alt="Terminal" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
 
 <br>
 
@@ -118,7 +139,16 @@ STATUS REPORT — June 2026
 
 I believe the best AI engineers are not just model builders — they are system designers. An agent that hallucinates costs more than one that says "I don't know." A pipeline without guardrails is a liability, not a feature. I think about failure modes before I think about demos.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%3E_+9+projects.+3+live.+0+excuses." alt="Projects intro" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2000&pause=600&color=555555&center=true&vCenter=true&repeat=true&width=700&height=40&lines=pip+install+pneumo-scan+smartapply+mediguide+matcha-journal;Successfully+installed+9+packages+in+1.2s;All+systems+operational." alt="pip install" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
 
 <br>
 
@@ -251,7 +281,13 @@ Command-line vocabulary game built in C++. Clean logic, no frameworks, just algo
 
 I do not build projects to fill a portfolio. I build them because I see a gap — a workflow that could be automated, a diagnosis that should be explainable, a user group that technology forgot about. The project list is a side effect of caring about the right problems.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2000&pause=800&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=50&lines=%F0%9F%90%8D+SNAKE+MODE+ACTIVATED;CONSUMING+CONTRIBUTIONS...;NOM+NOM+NOM+NOM+NOM" alt="Snake mode" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
 
 <br>
 
@@ -265,7 +301,13 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
   </picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=700&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+git+log+--oneline+%7C+wc+-l;++2348;%24+echo+%22that's+a+lot+of+commits%22" alt="Git stats intro" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
 
 <br>
 
@@ -335,7 +377,16 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yusra-Shah&bg_color=0d1117&color=00ff88&line=b565f7&point=00ff88&area=true&area_color=b565f7&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=1000&color=b565f7&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%5B+ACHIEVEMENT+UNLOCKED+%5D;%5B+LOADING+RECOGNITION+DATA+%5D;%5B+ACCESS+GRANTED+%5D" alt="Achievement" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1500&pause=500&color=555555&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+10%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91+45%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91+78%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+DONE" alt="Loading bar" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
 
 <br>
 
@@ -521,7 +572,13 @@ Served on the organizing team for SIBAthon'26 — the university's flagship hack
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+gpg+--verify+certifications.json;gpg%3A+Good+signature+from+%22Yusra+Batool%22;gpg%3A+All+7+credentials+VERIFIED" alt="GPG verify" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
 
 <br>
 
@@ -586,7 +643,13 @@ Served on the organizing team for SIBAthon'26 — the university's flagship hack
 
 Additional completed work: Deloitte Data Analytics Job Simulation, AWS Aurora MySQL Basics, Microsoft AI Skills Fest, Google Arcade Facilitator Program.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=b565f7&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+tail+-f+%2Fvar%2Flog%2Flearning.log;%5BINFO%5D+New+knowledge+detected...;%5BINFO%5D+Integrating+into+projects..." alt="Learning" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
 
 <br>
 
@@ -613,7 +676,13 @@ Additional completed work: Deloitte Data Analytics Job Simulation, AWS Aurora My
 
 I treat learning the same way I treat engineering — systematically, with clear intent, and always tied to something I am building. Courses are inputs. Shipped projects are outputs. The ratio matters.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=500&height=60&lines=%24+neofetch;Fetching+system+info...;Done.+Welcome+back." alt="Neofetch" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a2e1a,100:0d1117&height=2" />
 
 <br>
 
@@ -638,7 +707,13 @@ Resolution: Build AI that is useful, explainable, and safe
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20build%20it.&author=Alan%20Kay" alt="Dev Quote" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1500&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+exit;logout;Connection+to+yusra%40dev+closed.;See+you+in+the+next+commit." alt="Exit" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a0a2e,100:0d1117&height=2" />
 
 <br>
 
