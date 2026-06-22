@@ -124,26 +124,71 @@ I pick tools based on what the problem needs, not what is trending. PyTorch for 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;`> cat current_focus.md`
 
-```
-STATUS REPORT — June 2026
-==========================
+<table>
+<tr>
+<td>
+<br>
 
-[ACTIVE]  Nexus Drift — organizational cognition engine
-          Building graph-based memory and multi-agent risk surfacing
-          Stack: LangGraph + Neo4j + Gemini + Cloud Run
+<img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&labelColor=0d1117" /> &nbsp; **Nexus Drift** — organizational cognition engine
 
-[ACTIVE]  Medical imaging research
-          Extending Pneumo-Scan with multi-class pathology detection
-          Investigating attention-based explainability beyond Grad-CAM
+Building graph-based memory and multi-agent risk surfacing for teams that need to think together at scale.
 
-[ACTIVE]  Responsible AI frameworks
-          Designing reusable guardrail patterns for agentic systems
-          PII redaction, prompt injection detection, regression testing
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=chainlink&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=b565f7" /> <img src="https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=google&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Cloud_Run-0d1117?style=flat-square&logo=googlecloud&logoColor=b565f7" />
 
-[SHIPPED] SmartApply — live on Cloud Run, featured by Google
-[SHIPPED] MediGuide AI — live on Cloud Run
-[SHIPPED] Matcha Journal — built solo in under 24 hours
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=450&height=20&lines=%24+nexus.surface_risks(org%3D'acme'%2C+depth%3D3)" alt="nexus" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+<br>
+
+<img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&labelColor=0d1117" /> &nbsp; **Medical Imaging Research** — explainable AI for healthcare
+
+Extending Pneumo-Scan with multi-class pathology detection and investigating attention-based explainability methods beyond Grad-CAM. Working toward models clinicians can actually trust.
+
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00ff88" /> <img src="https://img.shields.io/badge/DenseNet--121-0d1117?style=flat-square&logo=pytorch&logoColor=b565f7" /> <img src="https://img.shields.io/badge/Grad--CAM-0d1117?style=flat-square&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=b565f7" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=b565f7&vCenter=true&repeat=true&width=450&height=20&lines=%24+model.explain(image%3D'xray.dcm'%2C+method%3D'gradcam')" alt="xray" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+<br>
+
+<img src="https://img.shields.io/badge/ACTIVE-00ff88?style=flat-square&labelColor=0d1117" /> &nbsp; **Responsible AI Frameworks** — guardrails for agentic systems
+
+Designing reusable patterns for PII redaction, prompt injection detection, output validation, and regression testing across multi-agent pipelines. Safety is not a feature — it is the architecture.
+
+<img src="https://img.shields.io/badge/Guardrails-0d1117?style=flat-square&logoColor=00ff88" /> <img src="https://img.shields.io/badge/PII_Redaction-0d1117?style=flat-square&logoColor=b565f7" /> <img src="https://img.shields.io/badge/Prompt_Injection-0d1117?style=flat-square&logoColor=00ff88" /> <img src="https://img.shields.io/badge/Regression_Testing-0d1117?style=flat-square&logoColor=b565f7" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=2000&color=00ff88&vCenter=true&repeat=true&width=450&height=20&lines=%24+guardrail.validate(input%2C+checks%3D%5B'pii'%2C+'injection'%5D)" alt="guardrail" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SHIPPED-00ff88?style=for-the-badge&labelColor=0d1117" /> &nbsp;
+  <img src="https://img.shields.io/badge/SmartApply-Cloud_Run-0d1117?style=flat-square&labelColor=0d1117&logo=googlecloud&logoColor=00ff88" /> &nbsp;
+  <img src="https://img.shields.io/badge/MediGuide_AI-Cloud_Run-0d1117?style=flat-square&labelColor=0d1117&logo=googlecloud&logoColor=b565f7" /> &nbsp;
+  <img src="https://img.shields.io/badge/Matcha_Journal-Streamlit-0d1117?style=flat-square&labelColor=0d1117&logo=streamlit&logoColor=00ff88" />
+</p>
+
+<br>
 
 I believe the best AI engineers are not just model builders — they are system designers. An agent that hallucinates costs more than one that says "I don't know." A pipeline without guardrails is a liability, not a feature. I think about failure modes before I think about demos.
 
