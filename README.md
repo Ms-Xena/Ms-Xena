@@ -15,7 +15,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2e1a,60:1a0a2e,100:0d1117&height=80&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=800&pause=300&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F" alt="Pac-Man" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=30&duration=600&pause=200&color=FFD700&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F;%C2%B7+%C2%B7+%C2%B7+%C2%B7+%C2%B7+%E1%97%A7+%C2%B7+%C2%B7+%C2%B7+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F+%E2%97%8F" alt="Pac-Man" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=3000&pause=1000&color=555555&center=true&vCenter=true&repeat=true&width=300&height=20&lines=SCORE%3A+2348+%7C+HIGH+SCORE%3A+9999" alt="Score" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,60:0a2e1a,100:0d1117&height=80&section=header" />
@@ -335,7 +338,13 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a2e1a,70:1a0a2e,100:0d1117&height=100&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=600&pause=200&color=00ff88&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%96%91%E2%96%92%E2%96%93%E2%96%88%E2%96%88+SNAKE+MODE+ACTIVATED+%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91;%E2%96%93%E2%96%88%E2%96%88+CONSUMING+CONTRIBUTIONS+%E2%96%88%E2%96%88%E2%96%93;%E2%96%88%E2%96%88%E2%96%88+NOM+NOM+NOM+NOM+NOM+%E2%96%88%E2%96%88%E2%96%88" alt="Snake mode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&duration=500&pause=200&color=00ff88&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC;+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC;%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC+%E2%96%BC" alt="Space Invaders" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=800&pause=300&color=b565f7&center=true&vCenter=true&repeat=true&width=400&height=30&lines=%E2%96%B2++++++++++++++++++++++++++++%E2%96%B2;+++++++++%E2%96%B2+FIRE!+%E2%96%B2;%E2%96%B2++++++++++++++++++++++++++++%E2%96%B2" alt="Ship" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=2000&pause=800&color=00ff88&center=true&vCenter=true&repeat=true&width=500&height=30&lines=SNAKE+MODE+ACTIVATED;CONSUMING+CONTRIBUTIONS...;NOM+NOM+NOM+NOM+NOM" alt="Snake mode" />
 </p>
 
 
@@ -377,26 +386,58 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
 
 <br>
 
-```
-   CONTRIBUTION DASHBOARD                                    Jun 2025 — Jun 2026
-  ──────────────────────────────────────────────────────────────────────────────
-
-   Total Contributions    2,348    ██████████████████████████████████████░░  93%
-   Current Streak            24    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  May 30 — Jun 22
-   Longest Streak            47    ███████████████████████░░░░░░░░░░░░░░░░  Jan 3 — Feb 18
-   Active Days              326    ████████████████████████████████████░░░░  88%
-   Rest Days                 45    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
-
-   Avg Commits / Day       3.4    ██████████████████░░░░░░░░░░░░░░░░░░░░░░
-   Most Active Day          Tue    ██████████████████████████████████████░░
-   Peak Month               Mar    █████████████████████████████████████░░░
-
-  ──────────────────────────────────────────────────────────────────────────────
-   STATUS: OPERATIONAL                                        uptime: 88.1%
-```
+<table>
+<tr>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/2,348-00ff88?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&duration=2000&pause=1000&color=00ff88&center=true&vCenter=true&repeat=true&width=120&height=15&lines=CONTRIBUTIONS" alt="c" />
+<br>
+<sub>Jun 2025 - Present</sub>
+<br><br>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/24-b565f7?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&duration=2000&pause=1000&color=b565f7&center=true&vCenter=true&repeat=true&width=120&height=15&lines=CURRENT+STREAK" alt="s" />
+<br>
+<sub>May 30 - Jun 22</sub>
+<br><br>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/47-00ff88?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&duration=2000&pause=1000&color=00ff88&center=true&vCenter=true&repeat=true&width=120&height=15&lines=LONGEST+STREAK" alt="l" />
+<br>
+<sub>Jan 3 - Feb 18</sub>
+<br><br>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/326-b565f7?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&duration=2000&pause=1000&color=b565f7&center=true&vCenter=true&repeat=true&width=120&height=15&lines=ACTIVE+DAYS" alt="a" />
+<br>
+<sub>88% uptime</sub>
+<br><br>
+</td>
+<td align="center" width="20%">
+<br>
+<img src="https://img.shields.io/badge/3.4-00ff88?style=for-the-badge&labelColor=0d1117" />
+<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=10&duration=2000&pause=1000&color=00ff88&center=true&vCenter=true&repeat=true&width=120&height=15&lines=COMMITS%2FDAY" alt="d" />
+<br>
+<sub>avg daily</sub>
+<br><br>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+echo+%22Contributions+this+week%3A+$(git+log+--oneline+--since%3D7.days+%7C+wc+-l)%22;Contributions+this+week%3A+27" alt="Weekly" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=600&height=30&lines=STATUS%3A+OPERATIONAL+%7C+UPTIME%3A+88.1%25;PEAK+MONTH%3A+MAR+%7C+BEST+DAY%3A+TUE;ALL+SYSTEMS+GREEN" alt="Status" />
 </p>
 
 <br>
@@ -417,9 +458,11 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=b565f7&text=%E2%9C%A6%20ACHIEVEMENT%20UNLOCKED%20%E2%9C%A6&height=80&fontSize=28&fontAlignY=50&animation=twinkling&desc=%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85&descSize=20&descColor=00ff88&descAlignY=80" width="100%" />
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1000&pause=400&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=25&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+10%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91%E2%96%91%E2%96%91%E2%96%91+45%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91+78%25;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+LOADED" alt="Loading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&duration=500&pause=200&color=00ff88&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%E2%96%A0%E2%96%A0+%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0++%E2%96%A0%E2%96%A0%E2%96%A0+%E2%96%A0+++%E2%96%A0%E2%96%A0;+%E2%96%A0%E2%96%A0%E2%96%A0++%E2%96%A0%E2%96%A0+%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0++%E2%96%A0%E2%96%A0+%E2%96%A0%E2%96%A0;%E2%96%A0+%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0+%E2%96%A0%E2%96%A0+%E2%96%A0+%E2%96%A0%E2%96%A0%E2%96%A0++%E2%96%A0%E2%96%A0%E2%96%A0" alt="Tetris" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1500&pause=500&color=b565f7&center=true&vCenter=true&repeat=true&width=500&height=25&lines=LEVEL+COMPLETE+%7C+SCORE+%2B1000;NEXT+LEVEL%3A+ACHIEVEMENTS;LOADING..." alt="Tetris score" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a2e,100:0d1117&height=80&section=header" />
