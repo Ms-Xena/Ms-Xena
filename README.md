@@ -324,46 +324,27 @@ I do not build projects to fill a portfolio. I build them because I see a gap �
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/2,348-00ff88?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br>
-<sub><b>Total Contributions</b></sub>
-<br>
-<sub>Jun 2025 - Present</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/24-00ff88?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br>
-<sub><b>Current Streak</b></sub>
-<br>
-<sub>May 30 - Jun 22</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/47-b565f7?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br>
-<sub><b>Longest Streak</b></sub>
-<br>
-<sub>Jan 3 - Feb 18</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.shields.io/badge/326-00ff88?style=for-the-badge&labelColor=0d1117&color=0d1117" />
-<br>
-<sub><b>Active Days</b></sub>
-<br>
-<sub>88% uptime</sub>
-<br><br>
-</td>
-</tr>
-</table>
+```
+   CONTRIBUTION DASHBOARD                                    Jun 2025 — Jun 2026
+  ──────────────────────────────────────────────────────────────────────────────
+
+   Total Contributions    2,348    ██████████████████████████████████████░░  93%
+   Current Streak            24    ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░  May 30 — Jun 22
+   Longest Streak            47    ███████████████████████░░░░░░░░░░░░░░░░  Jan 3 — Feb 18
+   Active Days              326    ████████████████████████████████████░░░░  88%
+   Rest Days                 45    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12%
+
+   Avg Commits / Day       3.4    ██████████████████░░░░░░░░░░░░░░░░░░░░░░
+   Most Active Day          Tue    ██████████████████████████████████████░░
+   Peak Month               Mar    █████████████████████████████████████░░░
+
+  ──────────────────────────────────────────────────────────────────────────────
+   STATUS: OPERATIONAL                                        uptime: 88.1%
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%24+echo+%22Contributions+this+week%3A+$(git+log+--oneline+--since%3D7.days+%7C+wc+-l)%22;Contributions+this+week%3A+27" alt="Weekly" />
+</p>
 
 <br>
 
