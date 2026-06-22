@@ -243,3 +243,4 @@
 - 2026-06-15: restructure
 - 2026-06-18: clean up
 - 2026-06-19: revise draft
+- 2026-06-22: reorganize
